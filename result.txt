@@ -1,0 +1,3500 @@
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 0,  e_loss:24.15591812133789,  d_loss:22.99005889892578,  g_loss:22.928829193115234,  c_loss:37.06043243408203
+accuracy 1.6% for K=1
+accuracy 0.016% for K=1
+accuracy_Pro 2.0% for K=1
+MSE meu 3e-07%  MSE: 3.099999901223782e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 10,  e_loss:13.16222858428955,  d_loss:9.082700729370117,  g_loss:38.100040435791016,  c_loss:22.422204971313477
+accuracy 2.8000000000000003% for K=1
+accuracy 0.028% for K=1
+accuracy_Pro 4.0% for K=1
+MSE meu 2.1e-07%  MSE: 1.8999999440438842e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 20,  e_loss:15.051300048828125,  d_loss:11.267826080322266,  g_loss:34.19499206542969,  c_loss:22.258403778076172
+accuracy 2.32% for K=1
+accuracy 0.0232% for K=1
+accuracy_Pro 4.4799999999999995% for K=1
+MSE meu 1.8e-07%  MSE: 1.199999957179898e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 30,  e_loss:12.523473739624023,  d_loss:9.186761856079102,  g_loss:37.50441360473633,  c_loss:22.268774032592773
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 4.0% for K=1
+MSE meu 1.8e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 40,  e_loss:14.311246871948242,  d_loss:9.982349395751953,  g_loss:37.70161437988281,  c_loss:20.78012466430664
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 3.2% for K=1
+MSE meu 1.2e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 50,  e_loss:11.75393295288086,  d_loss:8.059814453125,  g_loss:29.499547958374023,  c_loss:20.770919799804688
+accuracy 3.36% for K=1
+accuracy 0.0336% for K=1
+accuracy_Pro 4.4799999999999995% for K=1
+MSE meu 1.2e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 60,  e_loss:14.478252410888672,  d_loss:10.67765998840332,  g_loss:34.89424133300781,  c_loss:20.626996994018555
+accuracy 3.36% for K=1
+accuracy 0.0336% for K=1
+accuracy_Pro 4.24% for K=1
+MSE meu 1.8e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 70,  e_loss:13.475598335266113,  d_loss:10.163970947265625,  g_loss:37.618324279785156,  c_loss:22.30800437927246
+accuracy 2.88% for K=1
+accuracy 0.0288% for K=1
+accuracy_Pro 3.04% for K=1
+MSE meu 1.8e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 80,  e_loss:13.785441398620605,  d_loss:10.168275833129883,  g_loss:37.12822723388672,  c_loss:20.619640350341797
+accuracy 3.84% for K=1
+accuracy 0.0384% for K=1
+accuracy_Pro 3.6799999999999997% for K=1
+MSE meu 1.8e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 90,  e_loss:14.471857070922852,  d_loss:9.830116271972656,  g_loss:33.20124816894531,  c_loss:22.25668716430664
+accuracy 4.4799999999999995% for K=1
+accuracy 0.0448% for K=1
+accuracy_Pro 4.64% for K=1
+MSE meu 9e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 100,  e_loss:14.214427947998047,  d_loss:10.228273391723633,  g_loss:36.236724853515625,  c_loss:22.224321365356445
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 4.3999999999999995% for K=1
+MSE meu 1.6e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 110,  e_loss:11.632124900817871,  d_loss:7.881772994995117,  g_loss:40.10664749145508,  c_loss:22.246408462524414
+accuracy 3.6799999999999997% for K=1
+accuracy 0.0368% for K=1
+accuracy_Pro 5.04% for K=1
+MSE meu 1.5e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 120,  e_loss:15.716910362243652,  d_loss:10.949666023254395,  g_loss:37.535491943359375,  c_loss:22.245607376098633
+accuracy 4.0% for K=1
+accuracy 0.04% for K=1
+accuracy_Pro 4.8% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 130,  e_loss:17.396968841552734,  d_loss:12.50108528137207,  g_loss:34.33462142944336,  c_loss:20.560895919799805
+accuracy 2.88% for K=1
+accuracy 0.0288% for K=1
+accuracy_Pro 5.12% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 140,  e_loss:15.783073425292969,  d_loss:11.71816635131836,  g_loss:41.298736572265625,  c_loss:22.23335075378418
+accuracy 3.2800000000000002% for K=1
+accuracy 0.0328% for K=1
+accuracy_Pro 4.8% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 150,  e_loss:10.80118179321289,  d_loss:7.525510787963867,  g_loss:32.347354888916016,  c_loss:18.82157325744629
+accuracy 4.3999999999999995% for K=1
+accuracy 0.044% for K=1
+accuracy_Pro 4.32% for K=1
+MSE meu 5e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 160,  e_loss:13.228548049926758,  d_loss:9.2191801071167,  g_loss:37.12512969970703,  c_loss:20.634502410888672
+accuracy 2.7199999999999998% for K=1
+accuracy 0.0272% for K=1
+accuracy_Pro 5.12% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 170,  e_loss:13.13792610168457,  d_loss:9.17251205444336,  g_loss:31.699600219726562,  c_loss:20.66086769104004
+accuracy 3.2% for K=1
+accuracy 0.032% for K=1
+accuracy_Pro 4.96% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 180,  e_loss:11.75797176361084,  d_loss:8.244026184082031,  g_loss:37.065162658691406,  c_loss:22.232402801513672
+accuracy 4.32% for K=1
+accuracy 0.0432% for K=1
+accuracy_Pro 3.6799999999999997% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 190,  e_loss:10.498894691467285,  d_loss:7.193632125854492,  g_loss:43.075355529785156,  c_loss:20.711997985839844
+accuracy 2.32% for K=1
+accuracy 0.0232% for K=1
+accuracy_Pro 3.92% for K=1
+MSE meu 5e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 200,  e_loss:12.47537899017334,  d_loss:8.903107643127441,  g_loss:41.44901657104492,  c_loss:20.408571243286133
+accuracy 3.2800000000000002% for K=1
+accuracy 0.0328% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 6e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 210,  e_loss:13.247922897338867,  d_loss:8.45712947845459,  g_loss:30.80680274963379,  c_loss:20.453962326049805
+accuracy 3.92% for K=1
+accuracy 0.0392% for K=1
+accuracy_Pro 4.4799999999999995% for K=1
+MSE meu 5e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 220,  e_loss:13.789531707763672,  d_loss:10.236429214477539,  g_loss:37.472652435302734,  c_loss:22.283519744873047
+accuracy 3.92% for K=1
+accuracy 0.0392% for K=1
+accuracy_Pro 3.5999999999999996% for K=1
+MSE meu 7e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 230,  e_loss:10.919132232666016,  d_loss:7.095180988311768,  g_loss:43.89454650878906,  c_loss:20.454654693603516
+accuracy 3.04% for K=1
+accuracy 0.0304% for K=1
+accuracy_Pro 4.64% for K=1
+MSE meu 8e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 240,  e_loss:11.610685348510742,  d_loss:8.128267288208008,  g_loss:42.571861267089844,  c_loss:22.224462509155273
+accuracy 3.44% for K=1
+accuracy 0.0344% for K=1
+accuracy_Pro 4.0% for K=1
+MSE meu 6e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 250,  e_loss:12.037437438964844,  d_loss:8.099422454833984,  g_loss:47.91819381713867,  c_loss:20.5488224029541
+accuracy 2.7199999999999998% for K=1
+accuracy 0.0272% for K=1
+accuracy_Pro 4.32% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 260,  e_loss:10.664972305297852,  d_loss:7.092103958129883,  g_loss:35.22248077392578,  c_loss:22.22064971923828
+accuracy 3.6799999999999997% for K=1
+accuracy 0.0368% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 7e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 270,  e_loss:17.065399169921875,  d_loss:12.335407257080078,  g_loss:42.77962875366211,  c_loss:20.43146514892578
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 7e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 280,  e_loss:13.922432899475098,  d_loss:10.100465774536133,  g_loss:37.223907470703125,  c_loss:22.240259170532227
+accuracy 3.2% for K=1
+accuracy 0.032% for K=1
+accuracy_Pro 4.64% for K=1
+MSE meu 1e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 290,  e_loss:10.926477432250977,  d_loss:7.492495536804199,  g_loss:41.26686096191406,  c_loss:22.268762588500977
+accuracy 3.1199999999999997% for K=1
+accuracy 0.0312% for K=1
+accuracy_Pro 3.6799999999999997% for K=1
+MSE meu 4e-08%  MSE: 1.199999957179898e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 300,  e_loss:13.505322456359863,  d_loss:9.924233436584473,  g_loss:41.797454833984375,  c_loss:22.23297882080078
+accuracy 2.48% for K=1
+accuracy 0.0248% for K=1
+accuracy_Pro 4.0% for K=1
+MSE meu 5e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 310,  e_loss:14.532329559326172,  d_loss:10.621010780334473,  g_loss:44.57643127441406,  c_loss:22.231355667114258
+accuracy 3.2800000000000002% for K=1
+accuracy 0.0328% for K=1
+accuracy_Pro 3.7600000000000002% for K=1
+MSE meu 6e-08%  MSE: 1.199999957179898e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 320,  e_loss:12.09781265258789,  d_loss:8.489867210388184,  g_loss:43.67313003540039,  c_loss:20.437957763671875
+accuracy 4.16% for K=1
+accuracy 0.0416% for K=1
+accuracy_Pro 3.6799999999999997% for K=1
+MSE meu 7e-08%  MSE: 1.199999957179898e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 330,  e_loss:12.652959823608398,  d_loss:8.42866325378418,  g_loss:33.5055046081543,  c_loss:22.24276351928711
+accuracy 2.48% for K=1
+accuracy 0.0248% for K=1
+accuracy_Pro 3.84% for K=1
+MSE meu 8e-08%  MSE: 1.3000000365082087e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 340,  e_loss:11.298514366149902,  d_loss:7.8895769119262695,  g_loss:43.63813018798828,  c_loss:20.446426391601562
+accuracy 3.6799999999999997% for K=1
+accuracy 0.0368% for K=1
+accuracy_Pro 3.2800000000000002% for K=1
+MSE meu 1e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 350,  e_loss:11.667686462402344,  d_loss:7.620083808898926,  g_loss:47.9899787902832,  c_loss:20.37063217163086
+accuracy 3.84% for K=1
+accuracy 0.0384% for K=1
+accuracy_Pro 4.16% for K=1
+MSE meu 1.6e-07%  MSE: 1.5999999902760464e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 360,  e_loss:13.707036972045898,  d_loss:9.596761703491211,  g_loss:33.27857208251953,  c_loss:22.2442626953125
+accuracy 3.36% for K=1
+accuracy 0.0336% for K=1
+accuracy_Pro 2.64% for K=1
+MSE meu 1.3e-07%  MSE: 2.0999999605919584e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 370,  e_loss:11.280406951904297,  d_loss:7.316290855407715,  g_loss:31.13151741027832,  c_loss:22.22868537902832
+accuracy 3.44% for K=1
+accuracy 0.0344% for K=1
+accuracy_Pro 2.96% for K=1
+MSE meu 7e-07%  MSE: 3.400000139208714e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 380,  e_loss:10.779624938964844,  d_loss:7.236886978149414,  g_loss:34.75796890258789,  c_loss:22.234189987182617
+accuracy 3.2% for K=1
+accuracy 0.032% for K=1
+accuracy_Pro 2.64% for K=1
+MSE meu 6.6e-07%  MSE: 3.4999999343199306e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 390,  e_loss:11.522357940673828,  d_loss:7.8179731369018555,  g_loss:35.46178436279297,  c_loss:20.454376220703125
+accuracy 2.96% for K=1
+accuracy 0.0296% for K=1
+accuracy_Pro 2.8000000000000003% for K=1
+MSE meu 2.7e-07%  MSE: 3.099999901223782e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 400,  e_loss:11.983585357666016,  d_loss:7.708401679992676,  g_loss:32.955650329589844,  c_loss:22.22462272644043
+accuracy 3.2800000000000002% for K=1
+accuracy 0.0328% for K=1
+accuracy_Pro 2.48% for K=1
+MSE meu 3e-07%  MSE: 2.7999999474559445e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 410,  e_loss:10.357462882995605,  d_loss:7.271079063415527,  g_loss:36.107887268066406,  c_loss:20.354385375976562
+accuracy 4.08% for K=1
+accuracy 0.0408% for K=1
+accuracy_Pro 2.56% for K=1
+MSE meu 4.1e-07%  MSE: 2.7999999474559445e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 420,  e_loss:9.85132122039795,  d_loss:6.515707969665527,  g_loss:30.907052993774414,  c_loss:22.19902801513672
+accuracy 2.8000000000000003% for K=1
+accuracy 0.028% for K=1
+accuracy_Pro 3.1199999999999997% for K=1
+MSE meu 4.3e-07%  MSE: 2.7999999474559445e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 430,  e_loss:12.291728973388672,  d_loss:7.236447334289551,  g_loss:35.2896614074707,  c_loss:20.377979278564453
+accuracy 4.64% for K=1
+accuracy 0.0464% for K=1
+accuracy_Pro 3.2% for K=1
+MSE meu 1.7e-07%  MSE: 2.2999999771400326e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 440,  e_loss:13.053241729736328,  d_loss:8.44168758392334,  g_loss:34.814964294433594,  c_loss:20.364429473876953
+accuracy 2.4% for K=1
+accuracy 0.024% for K=1
+accuracy_Pro 3.92% for K=1
+MSE meu 1.8e-07%  MSE: 2.499999993688107e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 450,  e_loss:10.790817260742188,  d_loss:6.843209743499756,  g_loss:40.01670837402344,  c_loss:16.81876564025879
+accuracy 3.52% for K=1
+accuracy 0.0352% for K=1
+accuracy_Pro 4.88% for K=1
+MSE meu 1.9e-07%  MSE: 2.399999914359796e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 460,  e_loss:11.444663047790527,  d_loss:7.538741588592529,  g_loss:33.00102233886719,  c_loss:18.53723907470703
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 4.16% for K=1
+MSE meu 4.9e-07%  MSE: 2.6000000730164174e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 470,  e_loss:9.851631164550781,  d_loss:6.170084476470947,  g_loss:40.43143081665039,  c_loss:22.1922550201416
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 4.88% for K=1
+MSE meu 1e-06%  MSE: 2.6000000730164174e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 480,  e_loss:10.848678588867188,  d_loss:6.642124176025391,  g_loss:39.565834045410156,  c_loss:22.201499938964844
+accuracy 2.48% for K=1
+accuracy 0.0248% for K=1
+accuracy_Pro 5.28% for K=1
+MSE meu 7.1e-07%  MSE: 2.499999993688107e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 490,  e_loss:10.574049949645996,  d_loss:6.963348865509033,  g_loss:35.19847106933594,  c_loss:18.59090232849121
+accuracy 3.44% for K=1
+accuracy 0.0344% for K=1
+accuracy_Pro 4.24% for K=1
+MSE meu 2.2e-07%  MSE: 2.399999914359796e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 500,  e_loss:11.434476852416992,  d_loss:7.760760307312012,  g_loss:34.29901123046875,  c_loss:18.608671188354492
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 3.92% for K=1
+MSE meu 4.6e-07%  MSE: 2.200000039920269e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 510,  e_loss:13.457878112792969,  d_loss:8.22198486328125,  g_loss:32.77233123779297,  c_loss:22.202939987182617
+accuracy 3.52% for K=1
+accuracy 0.0352% for K=1
+accuracy_Pro 4.32% for K=1
+MSE meu 2e-07%  MSE: 2.200000039920269e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 520,  e_loss:11.170042037963867,  d_loss:7.675868988037109,  g_loss:37.88792419433594,  c_loss:22.21556282043457
+accuracy 3.6799999999999997% for K=1
+accuracy 0.0368% for K=1
+accuracy_Pro 2.8000000000000003% for K=1
+MSE meu 1.9e-07%  MSE: 2.200000039920269e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 530,  e_loss:10.310798645019531,  d_loss:6.403347969055176,  g_loss:33.026123046875,  c_loss:22.213253021240234
+accuracy 3.52% for K=1
+accuracy 0.0352% for K=1
+accuracy_Pro 3.2% for K=1
+MSE meu 1.7e-07%  MSE: 2.0999999605919584e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 540,  e_loss:10.449512481689453,  d_loss:6.334623336791992,  g_loss:36.09543228149414,  c_loss:22.23546028137207
+accuracy 3.6799999999999997% for K=1
+accuracy 0.0368% for K=1
+accuracy_Pro 3.6799999999999997% for K=1
+MSE meu 2.2e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 550,  e_loss:10.925596237182617,  d_loss:7.608633041381836,  g_loss:34.62254333496094,  c_loss:22.224699020385742
+accuracy 4.8% for K=1
+accuracy 0.048% for K=1
+accuracy_Pro 3.5999999999999996% for K=1
+MSE meu 2e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 560,  e_loss:8.913896560668945,  d_loss:5.460599899291992,  g_loss:32.52109909057617,  c_loss:18.622398376464844
+accuracy 4.16% for K=1
+accuracy 0.0416% for K=1
+accuracy_Pro 2.8000000000000003% for K=1
+MSE meu 2.8e-07%  MSE: 1.8999999440438842e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 570,  e_loss:9.97099781036377,  d_loss:5.530014991760254,  g_loss:31.038894653320312,  c_loss:22.214019775390625
+accuracy 3.2% for K=1
+accuracy 0.032% for K=1
+accuracy_Pro 3.1199999999999997% for K=1
+MSE meu 2.5e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 580,  e_loss:10.755226135253906,  d_loss:6.555141925811768,  g_loss:31.63296127319336,  c_loss:22.21509552001953
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 3.7600000000000002% for K=1
+MSE meu 2e-07%  MSE: 1.8999999440438842e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 590,  e_loss:9.927888870239258,  d_loss:5.917957305908203,  g_loss:32.847084045410156,  c_loss:22.202713012695312
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 3.44% for K=1
+MSE meu 2.1e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 600,  e_loss:12.201202392578125,  d_loss:7.9524102210998535,  g_loss:33.320838928222656,  c_loss:20.3784236907959
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 3.5999999999999996% for K=1
+MSE meu 2.1e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 610,  e_loss:9.598398208618164,  d_loss:5.854671001434326,  g_loss:30.065580368041992,  c_loss:22.219362258911133
+accuracy 4.3999999999999995% for K=1
+accuracy 0.044% for K=1
+accuracy_Pro 3.84% for K=1
+MSE meu 2.3e-07%  MSE: 1.8999999440438842e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 620,  e_loss:9.28065299987793,  d_loss:5.524219989776611,  g_loss:30.61277198791504,  c_loss:22.206907272338867
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 3.92% for K=1
+MSE meu 1.8e-07%  MSE: 1.8999999440438842e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 630,  e_loss:9.066680908203125,  d_loss:5.303494453430176,  g_loss:33.866329193115234,  c_loss:20.377485275268555
+accuracy 3.44% for K=1
+accuracy 0.0344% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 2.1e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 640,  e_loss:12.223258972167969,  d_loss:7.701272964477539,  g_loss:33.0900993347168,  c_loss:20.387401580810547
+accuracy 4.16% for K=1
+accuracy 0.0416% for K=1
+accuracy_Pro 3.5999999999999996% for K=1
+MSE meu 1.9e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 650,  e_loss:10.44167709350586,  d_loss:6.213200092315674,  g_loss:32.41877365112305,  c_loss:22.228836059570312
+accuracy 3.52% for K=1
+accuracy 0.0352% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 2e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 660,  e_loss:10.786169052124023,  d_loss:6.466347694396973,  g_loss:36.98085021972656,  c_loss:18.639619827270508
+accuracy 4.32% for K=1
+accuracy 0.0432% for K=1
+accuracy_Pro 3.52% for K=1
+MSE meu 1.9e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 670,  e_loss:10.24687385559082,  d_loss:6.327531814575195,  g_loss:34.90631866455078,  c_loss:18.52764320373535
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 2.64% for K=1
+MSE meu 1.9e-07%  MSE: 1.700000069604357e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 680,  e_loss:10.188944816589355,  d_loss:6.142848014831543,  g_loss:31.91799545288086,  c_loss:22.218908309936523
+accuracy 4.72% for K=1
+accuracy 0.0472% for K=1
+accuracy_Pro 3.5999999999999996% for K=1
+MSE meu 2.4e-07%  MSE: 1.700000069604357e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 690,  e_loss:11.160592079162598,  d_loss:6.801486492156982,  g_loss:31.652910232543945,  c_loss:22.203880310058594
+accuracy 4.4799999999999995% for K=1
+accuracy 0.0448% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 1.8e-07%  MSE: 1.700000069604357e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 700,  e_loss:9.493915557861328,  d_loss:6.0302863121032715,  g_loss:36.984046936035156,  c_loss:20.390825271606445
+accuracy 4.16% for K=1
+accuracy 0.0416% for K=1
+accuracy_Pro 3.52% for K=1
+MSE meu 2.1e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 710,  e_loss:9.515131950378418,  d_loss:5.788095951080322,  g_loss:36.162105560302734,  c_loss:18.59547996520996
+accuracy 4.3999999999999995% for K=1
+accuracy 0.044% for K=1
+accuracy_Pro 3.7600000000000002% for K=1
+MSE meu 3.1e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 720,  e_loss:11.02734661102295,  d_loss:6.993792533874512,  g_loss:33.19715118408203,  c_loss:22.200796127319336
+accuracy 3.36% for K=1
+accuracy 0.0336% for K=1
+accuracy_Pro 3.52% for K=1
+MSE meu 1.9e-07%  MSE: 1.8999999440438842e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 730,  e_loss:10.634703636169434,  d_loss:6.726197719573975,  g_loss:35.582828521728516,  c_loss:22.20140266418457
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 4.64% for K=1
+MSE meu 3.9e-07%  MSE: 2.0999999605919584e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 740,  e_loss:9.468164443969727,  d_loss:5.504499912261963,  g_loss:41.97867202758789,  c_loss:20.4332218170166
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 3.36% for K=1
+MSE meu 5.5e-07%  MSE: 2.200000039920269e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 750,  e_loss:11.280315399169922,  d_loss:7.37542724609375,  g_loss:39.88428497314453,  c_loss:22.22542953491211
+accuracy 3.2% for K=1
+accuracy 0.032% for K=1
+accuracy_Pro 3.44% for K=1
+MSE meu 3e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 760,  e_loss:11.240386962890625,  d_loss:6.689880847930908,  g_loss:40.392539978027344,  c_loss:18.585155487060547
+accuracy 2.96% for K=1
+accuracy 0.0296% for K=1
+accuracy_Pro 3.52% for K=1
+MSE meu 8e-08%  MSE: 1.500000053056283e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 770,  e_loss:11.694697380065918,  d_loss:7.713255405426025,  g_loss:45.35735321044922,  c_loss:22.20953941345215
+accuracy 3.36% for K=1
+accuracy 0.0336% for K=1
+accuracy_Pro 3.44% for K=1
+MSE meu 1e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 780,  e_loss:9.753483772277832,  d_loss:6.111804962158203,  g_loss:41.753028869628906,  c_loss:20.365169525146484
+accuracy 4.24% for K=1
+accuracy 0.0424% for K=1
+accuracy_Pro 4.4799999999999995% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 790,  e_loss:11.41517448425293,  d_loss:7.3953351974487305,  g_loss:56.84933853149414,  c_loss:22.20842742919922
+accuracy 4.24% for K=1
+accuracy 0.0424% for K=1
+accuracy_Pro 5.12% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 800,  e_loss:10.53372573852539,  d_loss:6.342685699462891,  g_loss:44.66679382324219,  c_loss:20.343303680419922
+accuracy 4.0% for K=1
+accuracy 0.04% for K=1
+accuracy_Pro 4.16% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 810,  e_loss:10.912353515625,  d_loss:6.5099639892578125,  g_loss:39.340126037597656,  c_loss:20.36601448059082
+accuracy 5.52% for K=1
+accuracy 0.0552% for K=1
+accuracy_Pro 4.08% for K=1
+MSE meu 4e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 820,  e_loss:10.857359886169434,  d_loss:6.56062126159668,  g_loss:39.07502365112305,  c_loss:22.204835891723633
+accuracy 4.32% for K=1
+accuracy 0.0432% for K=1
+accuracy_Pro 4.0% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 830,  e_loss:10.825030326843262,  d_loss:6.65354061126709,  g_loss:37.542144775390625,  c_loss:20.367115020751953
+accuracy 3.6799999999999997% for K=1
+accuracy 0.0368% for K=1
+accuracy_Pro 4.5600000000000005% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 840,  e_loss:10.573518753051758,  d_loss:6.066825866699219,  g_loss:33.46588897705078,  c_loss:22.216718673706055
+accuracy 3.44% for K=1
+accuracy 0.0344% for K=1
+accuracy_Pro 4.88% for K=1
+MSE meu 5e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 850,  e_loss:10.493978500366211,  d_loss:6.3515496253967285,  g_loss:36.193565368652344,  c_loss:22.212966918945312
+accuracy 4.0% for K=1
+accuracy 0.04% for K=1
+accuracy_Pro 4.8% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 860,  e_loss:10.320512771606445,  d_loss:6.363498687744141,  g_loss:43.92198181152344,  c_loss:22.231447219848633
+accuracy 3.92% for K=1
+accuracy 0.0392% for K=1
+accuracy_Pro 3.6799999999999997% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 870,  e_loss:11.521549224853516,  d_loss:6.680650234222412,  g_loss:35.214630126953125,  c_loss:22.218202590942383
+accuracy 4.3999999999999995% for K=1
+accuracy 0.044% for K=1
+accuracy_Pro 4.08% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 880,  e_loss:10.273943901062012,  d_loss:6.064215660095215,  g_loss:52.11594772338867,  c_loss:22.199098587036133
+accuracy 4.4799999999999995% for K=1
+accuracy 0.0448% for K=1
+accuracy_Pro 5.36% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 890,  e_loss:9.982648849487305,  d_loss:5.689934253692627,  g_loss:38.01359939575195,  c_loss:20.343286514282227
+accuracy 2.88% for K=1
+accuracy 0.0288% for K=1
+accuracy_Pro 5.04% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 900,  e_loss:10.680229187011719,  d_loss:6.677700042724609,  g_loss:43.919898986816406,  c_loss:22.192888259887695
+accuracy 5.12% for K=1
+accuracy 0.0512% for K=1
+accuracy_Pro 4.96% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 910,  e_loss:10.94839859008789,  d_loss:6.948609352111816,  g_loss:55.70909881591797,  c_loss:22.229991912841797
+accuracy 3.5999999999999996% for K=1
+accuracy 0.036% for K=1
+accuracy_Pro 3.92% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 920,  e_loss:9.843230247497559,  d_loss:6.0844316482543945,  g_loss:51.528011322021484,  c_loss:20.379953384399414
+accuracy 4.24% for K=1
+accuracy 0.0424% for K=1
+accuracy_Pro 5.4399999999999995% for K=1
+MSE meu 4e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 930,  e_loss:10.328649520874023,  d_loss:5.515594005584717,  g_loss:43.87248992919922,  c_loss:20.332448959350586
+accuracy 4.32% for K=1
+accuracy 0.0432% for K=1
+accuracy_Pro 4.3999999999999995% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 940,  e_loss:9.320209503173828,  d_loss:5.126053810119629,  g_loss:50.61653518676758,  c_loss:22.206937789916992
+accuracy 3.2800000000000002% for K=1
+accuracy 0.0328% for K=1
+accuracy_Pro 4.5600000000000005% for K=1
+MSE meu 2.3e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 950,  e_loss:11.887456893920898,  d_loss:7.283808708190918,  g_loss:38.06410598754883,  c_loss:18.542238235473633
+accuracy 4.32% for K=1
+accuracy 0.0432% for K=1
+accuracy_Pro 5.52% for K=1
+MSE meu 4e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 960,  e_loss:9.917097091674805,  d_loss:5.832563400268555,  g_loss:44.34787368774414,  c_loss:22.189973831176758
+accuracy 5.12% for K=1
+accuracy 0.0512% for K=1
+accuracy_Pro 5.2% for K=1
+MSE meu 4e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 970,  e_loss:9.539280891418457,  d_loss:5.328156471252441,  g_loss:36.45521926879883,  c_loss:22.2064208984375
+accuracy 5.2% for K=1
+accuracy 0.052% for K=1
+accuracy_Pro 5.680000000000001% for K=1
+MSE meu 1.1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 980,  e_loss:10.625245094299316,  d_loss:6.126989364624023,  g_loss:48.41461181640625,  c_loss:22.206375122070312
+accuracy 3.92% for K=1
+accuracy 0.0392% for K=1
+accuracy_Pro 5.12% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 990,  e_loss:9.430335998535156,  d_loss:5.419129371643066,  g_loss:37.35169982910156,  c_loss:20.330472946166992
+accuracy 5.84% for K=1
+accuracy 0.0584% for K=1
+accuracy_Pro 4.4799999999999995% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1000,  e_loss:10.520498275756836,  d_loss:6.1500749588012695,  g_loss:48.775962829589844,  c_loss:20.36977767944336
+accuracy 3.7600000000000002% for K=1
+accuracy 0.0376% for K=1
+accuracy_Pro 4.72% for K=1
+MSE meu 4e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1010,  e_loss:31.557880401611328,  d_loss:23.123985290527344,  g_loss:39.94755554199219,  c_loss:22.31149673461914
+accuracy 7.04% for K=1
+accuracy 0.0704% for K=1
+accuracy_Pro 3.92% for K=1
+MSE meu 1.4e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1020,  e_loss:27.550085067749023,  d_loss:20.053518295288086,  g_loss:49.88341522216797,  c_loss:22.198265075683594
+accuracy 9.120000000000001% for K=1
+accuracy 0.0912% for K=1
+accuracy_Pro 6.08% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1030,  e_loss:23.842205047607422,  d_loss:15.646971702575684,  g_loss:38.70513153076172,  c_loss:22.196523666381836
+accuracy 7.5200000000000005% for K=1
+accuracy 0.0752% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 4e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1040,  e_loss:25.68596649169922,  d_loss:17.45532989501953,  g_loss:41.04554748535156,  c_loss:22.191574096679688
+accuracy 8.08% for K=1
+accuracy 0.0808% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1050,  e_loss:35.33814239501953,  d_loss:24.47408676147461,  g_loss:31.533729553222656,  c_loss:22.310630798339844
+accuracy 8.799999999999999% for K=1
+accuracy 0.088% for K=1
+accuracy_Pro 6.72% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1060,  e_loss:24.488086700439453,  d_loss:15.948568344116211,  g_loss:32.75312042236328,  c_loss:18.558082580566406
+accuracy 7.359999999999999% for K=1
+accuracy 0.0736% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1070,  e_loss:25.798709869384766,  d_loss:16.80602264404297,  g_loss:34.86919403076172,  c_loss:18.5726375579834
+accuracy 9.84% for K=1
+accuracy 0.0984% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 4e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1080,  e_loss:24.02393341064453,  d_loss:14.745218276977539,  g_loss:31.24847984313965,  c_loss:22.19101333618164
+accuracy 10.0% for K=1
+accuracy 0.1% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1090,  e_loss:25.074504852294922,  d_loss:15.488971710205078,  g_loss:27.208852767944336,  c_loss:18.53954315185547
+accuracy 8.799999999999999% for K=1
+accuracy 0.088% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1100,  e_loss:34.001583099365234,  d_loss:23.66744613647461,  g_loss:28.63115692138672,  c_loss:22.249303817749023
+accuracy 10.879999999999999% for K=1
+accuracy 0.1088% for K=1
+accuracy_Pro 9.28% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1110,  e_loss:23.66495132446289,  d_loss:15.3280611038208,  g_loss:27.88392448425293,  c_loss:22.2036075592041
+accuracy 10.639999999999999% for K=1
+accuracy 0.1064% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1120,  e_loss:24.015392303466797,  d_loss:14.420337677001953,  g_loss:26.209081649780273,  c_loss:20.34817886352539
+accuracy 11.360000000000001% for K=1
+accuracy 0.1136% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1130,  e_loss:21.649330139160156,  d_loss:12.644327163696289,  g_loss:26.40920639038086,  c_loss:22.19458770751953
+accuracy 9.76% for K=1
+accuracy 0.0976% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1140,  e_loss:27.428800582885742,  d_loss:17.13188934326172,  g_loss:30.909364700317383,  c_loss:20.365877151489258
+accuracy 12.479999999999999% for K=1
+accuracy 0.1248% for K=1
+accuracy_Pro 9.2% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1150,  e_loss:23.482500076293945,  d_loss:13.78823471069336,  g_loss:26.515512466430664,  c_loss:18.510873794555664
+accuracy 11.12% for K=1
+accuracy 0.1112% for K=1
+accuracy_Pro 8.64% for K=1
+MSE meu 1e-07%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1160,  e_loss:24.25274658203125,  d_loss:14.594369888305664,  g_loss:21.85283660888672,  c_loss:22.200969696044922
+accuracy 12.879999999999999% for K=1
+accuracy 0.1288% for K=1
+accuracy_Pro 9.68% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1170,  e_loss:24.779483795166016,  d_loss:14.765722274780273,  g_loss:33.940696716308594,  c_loss:22.201826095581055
+accuracy 11.600000000000001% for K=1
+accuracy 0.116% for K=1
+accuracy_Pro 9.68% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1180,  e_loss:23.744110107421875,  d_loss:14.645950317382812,  g_loss:26.097484588623047,  c_loss:20.355915069580078
+accuracy 12.0% for K=1
+accuracy 0.12% for K=1
+accuracy_Pro 9.04% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1190,  e_loss:23.87804412841797,  d_loss:14.633648872375488,  g_loss:26.200599670410156,  c_loss:20.364099502563477
+accuracy 12.24% for K=1
+accuracy 0.1224% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1200,  e_loss:21.167400360107422,  d_loss:11.867385864257812,  g_loss:33.88790512084961,  c_loss:20.370267868041992
+accuracy 10.639999999999999% for K=1
+accuracy 0.1064% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 1.2e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1210,  e_loss:20.272804260253906,  d_loss:11.429152488708496,  g_loss:21.552715301513672,  c_loss:22.216445922851562
+accuracy 12.959999999999999% for K=1
+accuracy 0.1296% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1220,  e_loss:22.59793472290039,  d_loss:13.825117111206055,  g_loss:26.669374465942383,  c_loss:20.33650779724121
+accuracy 12.879999999999999% for K=1
+accuracy 0.1288% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1230,  e_loss:23.824434280395508,  d_loss:13.282085418701172,  g_loss:31.91238021850586,  c_loss:22.20487403869629
+accuracy 12.4% for K=1
+accuracy 0.124% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1240,  e_loss:23.318042755126953,  d_loss:13.478849411010742,  g_loss:23.984710693359375,  c_loss:20.389404296875
+accuracy 13.120000000000001% for K=1
+accuracy 0.1312% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 1.5e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1250,  e_loss:23.340309143066406,  d_loss:13.71281623840332,  g_loss:36.29215621948242,  c_loss:18.65215492248535
+accuracy 12.8% for K=1
+accuracy 0.128% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1260,  e_loss:24.992111206054688,  d_loss:14.665409088134766,  g_loss:31.22035026550293,  c_loss:20.33112907409668
+accuracy 12.72% for K=1
+accuracy 0.1272% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1270,  e_loss:22.14850616455078,  d_loss:12.626766204833984,  g_loss:24.344425201416016,  c_loss:16.72393226623535
+accuracy 13.36% for K=1
+accuracy 0.1336% for K=1
+accuracy_Pro 5.92% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1280,  e_loss:23.63369369506836,  d_loss:14.24412727355957,  g_loss:27.154075622558594,  c_loss:22.184680938720703
+accuracy 13.919999999999998% for K=1
+accuracy 0.1392% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1290,  e_loss:21.363590240478516,  d_loss:12.509279251098633,  g_loss:32.322689056396484,  c_loss:22.222013473510742
+accuracy 14.56% for K=1
+accuracy 0.1456% for K=1
+accuracy_Pro 9.36% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1300,  e_loss:22.83417510986328,  d_loss:12.95069694519043,  g_loss:19.856552124023438,  c_loss:22.190685272216797
+accuracy 15.040000000000001% for K=1
+accuracy 0.1504% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1310,  e_loss:20.14385414123535,  d_loss:10.583066940307617,  g_loss:18.296693801879883,  c_loss:20.329362869262695
+accuracy 13.600000000000001% for K=1
+accuracy 0.136% for K=1
+accuracy_Pro 6.08% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1320,  e_loss:23.33403778076172,  d_loss:14.042548179626465,  g_loss:26.360300064086914,  c_loss:22.19489097595215
+accuracy 13.84% for K=1
+accuracy 0.1384% for K=1
+accuracy_Pro 6.5600000000000005% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1330,  e_loss:23.284435272216797,  d_loss:13.246253967285156,  g_loss:22.007545471191406,  c_loss:18.527366638183594
+accuracy 13.919999999999998% for K=1
+accuracy 0.1392% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1.4e-07%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1340,  e_loss:23.181602478027344,  d_loss:13.046968460083008,  g_loss:26.936492919921875,  c_loss:20.318450927734375
+accuracy 13.44% for K=1
+accuracy 0.1344% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1350,  e_loss:25.94007110595703,  d_loss:13.960155487060547,  g_loss:26.108814239501953,  c_loss:22.188615798950195
+accuracy 15.120000000000001% for K=1
+accuracy 0.1512% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1360,  e_loss:22.653757095336914,  d_loss:11.86850357055664,  g_loss:23.10517120361328,  c_loss:20.32724952697754
+accuracy 14.08% for K=1
+accuracy 0.1408% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1370,  e_loss:21.956729888916016,  d_loss:12.174379348754883,  g_loss:20.03837013244629,  c_loss:18.483951568603516
+accuracy 14.399999999999999% for K=1
+accuracy 0.144% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1380,  e_loss:23.799217224121094,  d_loss:14.242151260375977,  g_loss:26.339195251464844,  c_loss:20.31842041015625
+accuracy 14.16% for K=1
+accuracy 0.1416% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 1.1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1390,  e_loss:21.574844360351562,  d_loss:12.037267684936523,  g_loss:24.153099060058594,  c_loss:22.182891845703125
+accuracy 13.36% for K=1
+accuracy 0.1336% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1400,  e_loss:22.01047134399414,  d_loss:11.45460319519043,  g_loss:17.823728561401367,  c_loss:22.185962677001953
+accuracy 15.2% for K=1
+accuracy 0.152% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1410,  e_loss:20.086244583129883,  d_loss:11.02224349975586,  g_loss:21.826213836669922,  c_loss:22.187440872192383
+accuracy 17.68% for K=1
+accuracy 0.1768% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1420,  e_loss:21.046693801879883,  d_loss:10.385738372802734,  g_loss:22.277021408081055,  c_loss:20.351455688476562
+accuracy 15.52% for K=1
+accuracy 0.1552% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1430,  e_loss:21.232221603393555,  d_loss:12.382949829101562,  g_loss:34.47061538696289,  c_loss:22.186779022216797
+accuracy 17.36% for K=1
+accuracy 0.1736% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1440,  e_loss:21.898195266723633,  d_loss:12.160314559936523,  g_loss:28.72475814819336,  c_loss:22.18353271484375
+accuracy 14.719999999999999% for K=1
+accuracy 0.1472% for K=1
+accuracy_Pro 6.08% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0168 Recall : 0.0168 f1 : 0.0168 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1450,  e_loss:21.826629638671875,  d_loss:12.380452156066895,  g_loss:31.463462829589844,  c_loss:20.329999923706055
+accuracy 16.08% for K=1
+accuracy 0.1608% for K=1
+accuracy_Pro 5.2% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1460,  e_loss:22.199047088623047,  d_loss:12.464120864868164,  g_loss:21.06940269470215,  c_loss:22.182960510253906
+accuracy 14.24% for K=1
+accuracy 0.1424% for K=1
+accuracy_Pro 7.359999999999999% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1470,  e_loss:21.96639060974121,  d_loss:10.83333969116211,  g_loss:24.823474884033203,  c_loss:18.480422973632812
+accuracy 16.8% for K=1
+accuracy 0.168% for K=1
+accuracy_Pro 5.84% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1480,  e_loss:24.42057991027832,  d_loss:15.66554069519043,  g_loss:34.547943115234375,  c_loss:20.3138427734375
+accuracy 17.28% for K=1
+accuracy 0.1728% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1490,  e_loss:23.05992889404297,  d_loss:11.473297119140625,  g_loss:27.47358512878418,  c_loss:20.315799713134766
+accuracy 16.96% for K=1
+accuracy 0.1696% for K=1
+accuracy_Pro 5.92% for K=1
+MSE meu 1e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1500,  e_loss:20.281524658203125,  d_loss:11.476171493530273,  g_loss:25.243457794189453,  c_loss:22.188596725463867
+accuracy 17.2% for K=1
+accuracy 0.172% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1510,  e_loss:20.052812576293945,  d_loss:10.205395698547363,  g_loss:25.384923934936523,  c_loss:20.313140869140625
+accuracy 15.52% for K=1
+accuracy 0.1552% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 1.8e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1520,  e_loss:20.43191909790039,  d_loss:10.222908020019531,  g_loss:25.948318481445312,  c_loss:22.183378219604492
+accuracy 18.240000000000002% for K=1
+accuracy 0.1824% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 1.1e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1530,  e_loss:21.11967658996582,  d_loss:10.920797348022461,  g_loss:26.268278121948242,  c_loss:22.192461013793945
+accuracy 14.719999999999999% for K=1
+accuracy 0.1472% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 1.1e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1540,  e_loss:21.248580932617188,  d_loss:11.529777526855469,  g_loss:27.301511764526367,  c_loss:20.314655303955078
+accuracy 17.2% for K=1
+accuracy 0.172% for K=1
+accuracy_Pro 5.92% for K=1
+MSE meu 9e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1550,  e_loss:20.857097625732422,  d_loss:11.756750106811523,  g_loss:25.839008331298828,  c_loss:20.31690216064453
+accuracy 16.88% for K=1
+accuracy 0.1688% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1560,  e_loss:19.08231544494629,  d_loss:9.567971229553223,  g_loss:25.13446044921875,  c_loss:20.318498611450195
+accuracy 18.08% for K=1
+accuracy 0.1808% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1570,  e_loss:19.014684677124023,  d_loss:10.22951889038086,  g_loss:33.888187408447266,  c_loss:14.916874885559082
+accuracy 17.04% for K=1
+accuracy 0.1704% for K=1
+accuracy_Pro 6.88% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1580,  e_loss:21.59524917602539,  d_loss:11.41619873046875,  g_loss:20.37352180480957,  c_loss:22.182043075561523
+accuracy 20.16% for K=1
+accuracy 0.2016% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1590,  e_loss:20.16769790649414,  d_loss:9.353084564208984,  g_loss:21.861949920654297,  c_loss:22.181283950805664
+accuracy 18.32% for K=1
+accuracy 0.1832% for K=1
+accuracy_Pro 5.6000000000000005% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1600,  e_loss:19.721248626708984,  d_loss:9.403416633605957,  g_loss:24.357934951782227,  c_loss:22.18170166015625
+accuracy 19.36% for K=1
+accuracy 0.1936% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1610,  e_loss:20.056678771972656,  d_loss:9.991548538208008,  g_loss:24.176546096801758,  c_loss:18.478174209594727
+accuracy 20.48% for K=1
+accuracy 0.2048% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 1e-07%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1620,  e_loss:20.16994285583496,  d_loss:10.357419967651367,  g_loss:25.410242080688477,  c_loss:20.311922073364258
+accuracy 18.32% for K=1
+accuracy 0.1832% for K=1
+accuracy_Pro 5.36% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1630,  e_loss:19.669424057006836,  d_loss:10.283855438232422,  g_loss:28.690967559814453,  c_loss:20.313913345336914
+accuracy 18.240000000000002% for K=1
+accuracy 0.1824% for K=1
+accuracy_Pro 4.64% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0168 Recall : 0.0168 f1 : 0.0168 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1640,  e_loss:21.900699615478516,  d_loss:11.224371910095215,  g_loss:22.32573699951172,  c_loss:22.183313369750977
+accuracy 19.84% for K=1
+accuracy 0.1984% for K=1
+accuracy_Pro 5.4399999999999995% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1650,  e_loss:19.392410278320312,  d_loss:9.347919464111328,  g_loss:24.173490524291992,  c_loss:16.67485809326172
+accuracy 21.12% for K=1
+accuracy 0.2112% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1660,  e_loss:22.804943084716797,  d_loss:10.92302417755127,  g_loss:24.555809020996094,  c_loss:22.183862686157227
+accuracy 20.080000000000002% for K=1
+accuracy 0.2008% for K=1
+accuracy_Pro 6.5600000000000005% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1670,  e_loss:19.832828521728516,  d_loss:10.439849853515625,  g_loss:31.79421043395996,  c_loss:20.311784744262695
+accuracy 22.0% for K=1
+accuracy 0.22% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1680,  e_loss:19.148746490478516,  d_loss:8.020156860351562,  g_loss:16.959569931030273,  c_loss:20.312646865844727
+accuracy 18.64% for K=1
+accuracy 0.1864% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1690,  e_loss:18.2578125,  d_loss:8.599592208862305,  g_loss:22.06937026977539,  c_loss:22.18149185180664
+accuracy 18.4% for K=1
+accuracy 0.184% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.016 Recall : 0.016 f1 : 0.016 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1700,  e_loss:20.357040405273438,  d_loss:9.038511276245117,  g_loss:22.70709228515625,  c_loss:20.311368942260742
+accuracy 20.72% for K=1
+accuracy 0.2072% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1710,  e_loss:20.102195739746094,  d_loss:9.980714797973633,  g_loss:22.30896759033203,  c_loss:22.181293487548828
+accuracy 20.16% for K=1
+accuracy 0.2016% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0152 Recall : 0.0152 f1 : 0.0152 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1720,  e_loss:21.186370849609375,  d_loss:9.628519058227539,  g_loss:19.51901626586914,  c_loss:22.182600021362305
+accuracy 19.2% for K=1
+accuracy 0.192% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1730,  e_loss:19.672954559326172,  d_loss:10.041062355041504,  g_loss:21.33112335205078,  c_loss:18.475170135498047
+accuracy 18.96% for K=1
+accuracy 0.1896% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0168 Recall : 0.0168 f1 : 0.0168 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1740,  e_loss:19.248077392578125,  d_loss:9.731756210327148,  g_loss:27.577865600585938,  c_loss:14.923514366149902
+accuracy 20.64% for K=1
+accuracy 0.2064% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1750,  e_loss:19.486854553222656,  d_loss:8.98403549194336,  g_loss:19.90904426574707,  c_loss:20.311431884765625
+accuracy 20.64% for K=1
+accuracy 0.2064% for K=1
+accuracy_Pro 7.04% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1760,  e_loss:19.062881469726562,  d_loss:10.062182426452637,  g_loss:27.05634307861328,  c_loss:22.181419372558594
+accuracy 19.68% for K=1
+accuracy 0.1968% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1770,  e_loss:20.56443214416504,  d_loss:9.185638427734375,  g_loss:24.25430679321289,  c_loss:22.18145179748535
+accuracy 21.6% for K=1
+accuracy 0.216% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1780,  e_loss:20.942626953125,  d_loss:10.287168502807617,  g_loss:23.577646255493164,  c_loss:22.181201934814453
+accuracy 21.6% for K=1
+accuracy 0.216% for K=1
+accuracy_Pro 9.2% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1790,  e_loss:18.59695053100586,  d_loss:9.829854965209961,  g_loss:25.482725143432617,  c_loss:20.310819625854492
+accuracy 20.560000000000002% for K=1
+accuracy 0.2056% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1800,  e_loss:19.103164672851562,  d_loss:9.178542137145996,  g_loss:27.79096794128418,  c_loss:20.311067581176758
+accuracy 22.48% for K=1
+accuracy 0.2248% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0168 Recall : 0.0168 f1 : 0.0168 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1810,  e_loss:18.442014694213867,  d_loss:7.051836967468262,  g_loss:19.472213745117188,  c_loss:20.311017990112305
+accuracy 24.240000000000002% for K=1
+accuracy 0.2424% for K=1
+accuracy_Pro 5.52% for K=1
+MSE meu 7e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1820,  e_loss:20.005083084106445,  d_loss:9.101574897766113,  g_loss:23.912126541137695,  c_loss:22.182201385498047
+accuracy 22.8% for K=1
+accuracy 0.228% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1830,  e_loss:19.480304718017578,  d_loss:8.980279922485352,  g_loss:27.784151077270508,  c_loss:22.181549072265625
+accuracy 21.44% for K=1
+accuracy 0.2144% for K=1
+accuracy_Pro 6.72% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1840,  e_loss:18.5423641204834,  d_loss:8.368645668029785,  g_loss:23.880163192749023,  c_loss:22.182336807250977
+accuracy 21.44% for K=1
+accuracy 0.2144% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1850,  e_loss:17.273401260375977,  d_loss:7.582281589508057,  g_loss:23.515058517456055,  c_loss:22.18207550048828
+accuracy 24.32% for K=1
+accuracy 0.2432% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1860,  e_loss:18.303104400634766,  d_loss:8.466726303100586,  g_loss:23.5544490814209,  c_loss:20.312746047973633
+accuracy 22.16% for K=1
+accuracy 0.2216% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1870,  e_loss:19.492332458496094,  d_loss:9.034418106079102,  g_loss:24.541109085083008,  c_loss:20.3122615814209
+accuracy 22.400000000000002% for K=1
+accuracy 0.224% for K=1
+accuracy_Pro 7.6% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1880,  e_loss:19.366474151611328,  d_loss:8.271332740783691,  g_loss:25.66901397705078,  c_loss:22.180992126464844
+accuracy 22.64% for K=1
+accuracy 0.2264% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1890,  e_loss:17.80076026916504,  d_loss:7.379164695739746,  g_loss:20.894821166992188,  c_loss:20.31186294555664
+accuracy 23.919999999999998% for K=1
+accuracy 0.2392% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1900,  e_loss:18.092327117919922,  d_loss:8.454204559326172,  g_loss:19.69342803955078,  c_loss:20.31083869934082
+accuracy 24.08% for K=1
+accuracy 0.2408% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1910,  e_loss:20.874937057495117,  d_loss:10.29252815246582,  g_loss:32.90444564819336,  c_loss:20.310884475708008
+accuracy 23.200000000000003% for K=1
+accuracy 0.232% for K=1
+accuracy_Pro 7.6% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1920,  e_loss:18.426376342773438,  d_loss:9.175621032714844,  g_loss:25.99123191833496,  c_loss:20.311126708984375
+accuracy 23.68% for K=1
+accuracy 0.2368% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1930,  e_loss:17.330554962158203,  d_loss:6.285177230834961,  g_loss:17.689603805541992,  c_loss:20.313302993774414
+accuracy 24.0% for K=1
+accuracy 0.24% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1940,  e_loss:22.358036041259766,  d_loss:10.249519348144531,  g_loss:20.27493667602539,  c_loss:22.18126678466797
+accuracy 22.720000000000002% for K=1
+accuracy 0.2272% for K=1
+accuracy_Pro 6.0% for K=1
+MSE meu 6e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1950,  e_loss:17.155757904052734,  d_loss:7.8163323402404785,  g_loss:22.86182403564453,  c_loss:20.314796447753906
+accuracy 24.240000000000002% for K=1
+accuracy 0.2424% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1960,  e_loss:18.16002655029297,  d_loss:8.688672065734863,  g_loss:23.565204620361328,  c_loss:22.181468963623047
+accuracy 23.52% for K=1
+accuracy 0.2352% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1970,  e_loss:20.09213638305664,  d_loss:8.16981315612793,  g_loss:27.297588348388672,  c_loss:22.181293487548828
+accuracy 23.76% for K=1
+accuracy 0.2376% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1980,  e_loss:17.69801139831543,  d_loss:7.297328948974609,  g_loss:18.32900047302246,  c_loss:20.311607360839844
+accuracy 23.84% for K=1
+accuracy 0.2384% for K=1
+accuracy_Pro 5.680000000000001% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 1990,  e_loss:17.103784561157227,  d_loss:6.28997278213501,  g_loss:16.92072105407715,  c_loss:16.672893524169922
+accuracy 25.119999999999997% for K=1
+accuracy 0.2512% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2000,  e_loss:20.68470001220703,  d_loss:8.447195053100586,  g_loss:18.979555130004883,  c_loss:22.181119918823242
+accuracy 24.8% for K=1
+accuracy 0.248% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2010,  e_loss:44.731117248535156,  d_loss:29.29806900024414,  g_loss:14.731481552124023,  c_loss:20.31190299987793
+accuracy 44.080000000000005% for K=1
+accuracy 0.4408% for K=1
+accuracy_Pro 2.0% for K=1
+MSE meu 2.9e-07%  MSE: 3.400000139208714e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2020,  e_loss:45.52243423461914,  d_loss:26.75365447998047,  g_loss:15.605857849121094,  c_loss:22.182167053222656
+accuracy 49.28% for K=1
+accuracy 0.4928% for K=1
+accuracy_Pro 2.0% for K=1
+MSE meu 2.1e-07%  MSE: 2.499999993688107e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2030,  e_loss:48.22563171386719,  d_loss:30.611526489257812,  g_loss:19.880573272705078,  c_loss:22.18132781982422
+accuracy 45.6% for K=1
+accuracy 0.456% for K=1
+accuracy_Pro 2.0% for K=1
+MSE meu 1.3e-07%  MSE: 1.700000069604357e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2040,  e_loss:46.59266662597656,  d_loss:27.279232025146484,  g_loss:11.63453483581543,  c_loss:22.186450958251953
+accuracy 44.800000000000004% for K=1
+accuracy 0.448% for K=1
+accuracy_Pro 4.96% for K=1
+MSE meu 8e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2050,  e_loss:44.007041931152344,  d_loss:27.387834548950195,  g_loss:11.516688346862793,  c_loss:20.31495475769043
+accuracy 45.12% for K=1
+accuracy 0.4512% for K=1
+accuracy_Pro 3.5999999999999996% for K=1
+MSE meu 1e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.0128 Recall : 0.0128 f1 : 0.0128 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2060,  e_loss:38.92903137207031,  d_loss:23.156463623046875,  g_loss:12.897465705871582,  c_loss:20.31103515625
+accuracy 45.519999999999996% for K=1
+accuracy 0.4552% for K=1
+accuracy_Pro 3.44% for K=1
+MSE meu 1.4e-07%  MSE: 1.700000069604357e-07
+Precision : 0.016 Recall : 0.016 f1 : 0.016 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2070,  e_loss:46.789344787597656,  d_loss:27.39278793334961,  g_loss:16.701526641845703,  c_loss:22.18148422241211
+accuracy 47.28% for K=1
+accuracy 0.4728% for K=1
+accuracy_Pro 3.1199999999999997% for K=1
+MSE meu 1.3e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2080,  e_loss:39.599334716796875,  d_loss:22.36614990234375,  g_loss:18.13803482055664,  c_loss:22.181745529174805
+accuracy 43.68% for K=1
+accuracy 0.4368% for K=1
+accuracy_Pro 2.88% for K=1
+MSE meu 1.3e-07%  MSE: 1.700000069604357e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2090,  e_loss:39.27894592285156,  d_loss:21.023658752441406,  g_loss:16.77451515197754,  c_loss:22.183429718017578
+accuracy 45.2% for K=1
+accuracy 0.452% for K=1
+accuracy_Pro 2.32% for K=1
+MSE meu 1.2e-07%  MSE: 1.700000069604357e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2100,  e_loss:38.68363952636719,  d_loss:21.83882713317871,  g_loss:15.585716247558594,  c_loss:20.311386108398438
+accuracy 45.519999999999996% for K=1
+accuracy 0.4552% for K=1
+accuracy_Pro 2.8000000000000003% for K=1
+MSE meu 1.3e-07%  MSE: 1.700000069604357e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2110,  e_loss:36.86933135986328,  d_loss:18.876848220825195,  g_loss:14.66298770904541,  c_loss:22.182538986206055
+accuracy 45.28% for K=1
+accuracy 0.4528% for K=1
+accuracy_Pro 5.36% for K=1
+MSE meu 1.1e-07%  MSE: 1.500000053056283e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2120,  e_loss:42.3172607421875,  d_loss:22.589771270751953,  g_loss:15.086299896240234,  c_loss:20.3226318359375
+accuracy 41.199999999999996% for K=1
+accuracy 0.412% for K=1
+accuracy_Pro 7.359999999999999% for K=1
+MSE meu 7e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2130,  e_loss:36.16534423828125,  d_loss:18.245243072509766,  g_loss:14.095610618591309,  c_loss:22.181791305541992
+accuracy 42.8% for K=1
+accuracy 0.428% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2140,  e_loss:38.98590087890625,  d_loss:22.20970916748047,  g_loss:14.353790283203125,  c_loss:22.182193756103516
+accuracy 44.56% for K=1
+accuracy 0.4456% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2150,  e_loss:34.54213333129883,  d_loss:17.09220314025879,  g_loss:14.73625373840332,  c_loss:22.18174934387207
+accuracy 47.199999999999996% for K=1
+accuracy 0.472% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 7e-08%  MSE: 1.1000000199601345e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2160,  e_loss:34.988372802734375,  d_loss:17.85805892944336,  g_loss:20.885976791381836,  c_loss:22.181669235229492
+accuracy 46.800000000000004% for K=1
+accuracy 0.468% for K=1
+accuracy_Pro 7.359999999999999% for K=1
+MSE meu 6e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2170,  e_loss:38.55487823486328,  d_loss:19.222015380859375,  g_loss:12.150664329528809,  c_loss:22.18218231201172
+accuracy 47.199999999999996% for K=1
+accuracy 0.472% for K=1
+accuracy_Pro 10.56% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2180,  e_loss:35.0106201171875,  d_loss:16.65608787536621,  g_loss:16.05984115600586,  c_loss:22.181360244750977
+accuracy 46.64% for K=1
+accuracy 0.4664% for K=1
+accuracy_Pro 9.44% for K=1
+MSE meu 5e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2190,  e_loss:38.21403884887695,  d_loss:17.626527786254883,  g_loss:19.085678100585938,  c_loss:22.181320190429688
+accuracy 46.64% for K=1
+accuracy 0.4664% for K=1
+accuracy_Pro 11.360000000000001% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2200,  e_loss:33.69087219238281,  d_loss:15.544801712036133,  g_loss:12.08742618560791,  c_loss:22.18314552307129
+accuracy 49.519999999999996% for K=1
+accuracy 0.4952% for K=1
+accuracy_Pro 10.879999999999999% for K=1
+MSE meu 4e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2210,  e_loss:35.44411087036133,  d_loss:17.103742599487305,  g_loss:13.84091854095459,  c_loss:22.181697845458984
+accuracy 50.480000000000004% for K=1
+accuracy 0.5048% for K=1
+accuracy_Pro 10.48% for K=1
+MSE meu 4e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2220,  e_loss:32.720542907714844,  d_loss:15.360574722290039,  g_loss:11.890741348266602,  c_loss:20.313535690307617
+accuracy 48.32% for K=1
+accuracy 0.4832% for K=1
+accuracy_Pro 9.120000000000001% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2230,  e_loss:36.051021575927734,  d_loss:16.602758407592773,  g_loss:19.31426239013672,  c_loss:22.181840896606445
+accuracy 51.76% for K=1
+accuracy 0.5176% for K=1
+accuracy_Pro 10.08% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2240,  e_loss:34.76762390136719,  d_loss:15.921462059020996,  g_loss:11.754802703857422,  c_loss:22.181856155395508
+accuracy 50.8% for K=1
+accuracy 0.508% for K=1
+accuracy_Pro 9.36% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2250,  e_loss:33.51276397705078,  d_loss:16.246728897094727,  g_loss:13.734724044799805,  c_loss:18.475536346435547
+accuracy 46.08% for K=1
+accuracy 0.4608% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2260,  e_loss:32.788490295410156,  d_loss:15.374387741088867,  g_loss:14.70562744140625,  c_loss:18.474811553955078
+accuracy 49.36% for K=1
+accuracy 0.4936% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2270,  e_loss:34.15494918823242,  d_loss:14.594999313354492,  g_loss:11.291048049926758,  c_loss:20.312395095825195
+accuracy 54.0% for K=1
+accuracy 0.54% for K=1
+accuracy_Pro 8.08% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2280,  e_loss:31.928525924682617,  d_loss:14.472537994384766,  g_loss:13.762267112731934,  c_loss:20.31199073791504
+accuracy 46.48% for K=1
+accuracy 0.4648% for K=1
+accuracy_Pro 8.64% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0296 Recall : 0.0296 f1 : 0.0296 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2290,  e_loss:28.87038803100586,  d_loss:12.40806770324707,  g_loss:10.232832908630371,  c_loss:22.182308197021484
+accuracy 48.08% for K=1
+accuracy 0.4808% for K=1
+accuracy_Pro 8.88% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2300,  e_loss:32.638526916503906,  d_loss:15.08671760559082,  g_loss:16.720788955688477,  c_loss:18.477630615234375
+accuracy 47.52% for K=1
+accuracy 0.4752% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2310,  e_loss:32.796085357666016,  d_loss:12.0269775390625,  g_loss:12.674073219299316,  c_loss:22.18226432800293
+accuracy 50.8% for K=1
+accuracy 0.508% for K=1
+accuracy_Pro 10.0% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2320,  e_loss:29.36464500427246,  d_loss:12.715121269226074,  g_loss:13.020272254943848,  c_loss:20.313072204589844
+accuracy 47.92% for K=1
+accuracy 0.4792% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2330,  e_loss:32.725582122802734,  d_loss:16.358814239501953,  g_loss:10.420611381530762,  c_loss:22.188091278076172
+accuracy 47.28% for K=1
+accuracy 0.4728% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2340,  e_loss:32.623260498046875,  d_loss:14.236452102661133,  g_loss:12.263687133789062,  c_loss:22.185068130493164
+accuracy 49.519999999999996% for K=1
+accuracy 0.4952% for K=1
+accuracy_Pro 9.520000000000001% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2350,  e_loss:31.225509643554688,  d_loss:14.609272003173828,  g_loss:12.723416328430176,  c_loss:22.182207107543945
+accuracy 52.559999999999995% for K=1
+accuracy 0.5256% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2360,  e_loss:30.393156051635742,  d_loss:12.176652908325195,  g_loss:16.373294830322266,  c_loss:18.474653244018555
+accuracy 50.32% for K=1
+accuracy 0.5032% for K=1
+accuracy_Pro 9.76% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2370,  e_loss:33.0989875793457,  d_loss:16.669944763183594,  g_loss:12.579522132873535,  c_loss:20.312232971191406
+accuracy 50.160000000000004% for K=1
+accuracy 0.5016% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2380,  e_loss:28.51947784423828,  d_loss:11.688285827636719,  g_loss:10.567898750305176,  c_loss:22.19377326965332
+accuracy 49.28% for K=1
+accuracy 0.4928% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2390,  e_loss:27.76491928100586,  d_loss:10.611651420593262,  g_loss:10.412614822387695,  c_loss:18.47733497619629
+accuracy 49.76% for K=1
+accuracy 0.4976% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2400,  e_loss:28.562368392944336,  d_loss:11.447446823120117,  g_loss:13.911083221435547,  c_loss:22.1814022064209
+accuracy 50.63999999999999% for K=1
+accuracy 0.5064% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2410,  e_loss:33.37873840332031,  d_loss:14.015564918518066,  g_loss:12.154570579528809,  c_loss:22.43881607055664
+accuracy 53.04% for K=1
+accuracy 0.5304% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2420,  e_loss:27.56623649597168,  d_loss:10.835010528564453,  g_loss:10.202047348022461,  c_loss:18.478281021118164
+accuracy 49.44% for K=1
+accuracy 0.4944% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2430,  e_loss:28.811687469482422,  d_loss:11.840721130371094,  g_loss:17.763656616210938,  c_loss:22.181652069091797
+accuracy 51.76% for K=1
+accuracy 0.5176% for K=1
+accuracy_Pro 8.559999999999999% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2440,  e_loss:26.85650634765625,  d_loss:9.954323768615723,  g_loss:12.449073791503906,  c_loss:20.314695358276367
+accuracy 53.68000000000001% for K=1
+accuracy 0.5368% for K=1
+accuracy_Pro 9.28% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2450,  e_loss:27.283092498779297,  d_loss:10.518592834472656,  g_loss:14.252899169921875,  c_loss:22.181480407714844
+accuracy 52.32% for K=1
+accuracy 0.5232% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2460,  e_loss:25.894906997680664,  d_loss:9.710430145263672,  g_loss:11.176881790161133,  c_loss:18.478858947753906
+accuracy 51.12% for K=1
+accuracy 0.5112% for K=1
+accuracy_Pro 8.88% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0168 Recall : 0.0168 f1 : 0.0168 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2470,  e_loss:27.155384063720703,  d_loss:10.75131607055664,  g_loss:14.133410453796387,  c_loss:20.31110382080078
+accuracy 52.080000000000005% for K=1
+accuracy 0.5208% for K=1
+accuracy_Pro 9.04% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2480,  e_loss:27.56742286682129,  d_loss:10.845281600952148,  g_loss:12.626392364501953,  c_loss:22.18187713623047
+accuracy 51.44% for K=1
+accuracy 0.5144% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2490,  e_loss:28.398332595825195,  d_loss:11.339927673339844,  g_loss:14.384236335754395,  c_loss:18.474416732788086
+accuracy 52.64% for K=1
+accuracy 0.5264% for K=1
+accuracy_Pro 9.04% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2500,  e_loss:29.272125244140625,  d_loss:11.870085716247559,  g_loss:12.753509521484375,  c_loss:20.311208724975586
+accuracy 52.64% for K=1
+accuracy 0.5264% for K=1
+accuracy_Pro 9.44% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2510,  e_loss:26.728519439697266,  d_loss:10.451019287109375,  g_loss:13.07135009765625,  c_loss:18.473947525024414
+accuracy 51.35999999999999% for K=1
+accuracy 0.5136% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2520,  e_loss:29.901676177978516,  d_loss:13.073260307312012,  g_loss:15.731168746948242,  c_loss:20.311138153076172
+accuracy 52.080000000000005% for K=1
+accuracy 0.5208% for K=1
+accuracy_Pro 9.120000000000001% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2530,  e_loss:26.754619598388672,  d_loss:9.300010681152344,  g_loss:11.849702835083008,  c_loss:22.18303680419922
+accuracy 52.239999999999995% for K=1
+accuracy 0.5224% for K=1
+accuracy_Pro 9.120000000000001% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2540,  e_loss:26.208829879760742,  d_loss:10.158544540405273,  g_loss:15.355253219604492,  c_loss:20.31420135498047
+accuracy 51.28% for K=1
+accuracy 0.5128% for K=1
+accuracy_Pro 9.2% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2550,  e_loss:25.085542678833008,  d_loss:8.924601554870605,  g_loss:16.507539749145508,  c_loss:22.183019638061523
+accuracy 50.160000000000004% for K=1
+accuracy 0.5016% for K=1
+accuracy_Pro 9.84% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2560,  e_loss:28.347490310668945,  d_loss:10.746761322021484,  g_loss:12.91629695892334,  c_loss:20.366138458251953
+accuracy 53.2% for K=1
+accuracy 0.532% for K=1
+accuracy_Pro 9.04% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2570,  e_loss:28.645503997802734,  d_loss:11.880783081054688,  g_loss:12.101472854614258,  c_loss:16.67951774597168
+accuracy 52.64% for K=1
+accuracy 0.5264% for K=1
+accuracy_Pro 9.6% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2580,  e_loss:25.723182678222656,  d_loss:8.10055160522461,  g_loss:10.656490325927734,  c_loss:22.182016372680664
+accuracy 55.279999999999994% for K=1
+accuracy 0.5528% for K=1
+accuracy_Pro 9.04% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0128 Recall : 0.0128 f1 : 0.0128 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2590,  e_loss:29.129615783691406,  d_loss:11.098437309265137,  g_loss:15.026651382446289,  c_loss:22.182636260986328
+accuracy 51.76% for K=1
+accuracy 0.5176% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2600,  e_loss:28.471363067626953,  d_loss:11.214471817016602,  g_loss:15.203786849975586,  c_loss:22.181509017944336
+accuracy 51.519999999999996% for K=1
+accuracy 0.5152% for K=1
+accuracy_Pro 8.64% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2610,  e_loss:26.937097549438477,  d_loss:9.404011726379395,  g_loss:13.784982681274414,  c_loss:22.18126106262207
+accuracy 50.239999999999995% for K=1
+accuracy 0.5024% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2620,  e_loss:28.002552032470703,  d_loss:10.946456909179688,  g_loss:15.72181510925293,  c_loss:22.181503295898438
+accuracy 51.12% for K=1
+accuracy 0.5112% for K=1
+accuracy_Pro 9.68% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2630,  e_loss:24.689682006835938,  d_loss:8.81629467010498,  g_loss:14.605483055114746,  c_loss:20.311965942382812
+accuracy 52.239999999999995% for K=1
+accuracy 0.5224% for K=1
+accuracy_Pro 8.559999999999999% for K=1
+MSE meu 4e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2640,  e_loss:27.857765197753906,  d_loss:10.223421096801758,  g_loss:13.3377685546875,  c_loss:22.18387794494629
+accuracy 52.400000000000006% for K=1
+accuracy 0.524% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2650,  e_loss:24.734207153320312,  d_loss:8.069689750671387,  g_loss:12.578131675720215,  c_loss:22.1822509765625
+accuracy 50.96000000000001% for K=1
+accuracy 0.5096% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0288 Recall : 0.0288 f1 : 0.0288 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2660,  e_loss:27.01018714904785,  d_loss:9.882657051086426,  g_loss:12.725116729736328,  c_loss:22.181089401245117
+accuracy 52.959999999999994% for K=1
+accuracy 0.5296% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2670,  e_loss:26.49929428100586,  d_loss:8.859966278076172,  g_loss:16.50905990600586,  c_loss:20.311779022216797
+accuracy 52.959999999999994% for K=1
+accuracy 0.5296% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2680,  e_loss:24.578781127929688,  d_loss:8.840377807617188,  g_loss:11.684618949890137,  c_loss:20.314334869384766
+accuracy 52.800000000000004% for K=1
+accuracy 0.528% for K=1
+accuracy_Pro 8.959999999999999% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.028 Recall : 0.028 f1 : 0.028 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2690,  e_loss:26.152488708496094,  d_loss:9.771465301513672,  g_loss:12.936503410339355,  c_loss:20.31243324279785
+accuracy 50.96000000000001% for K=1
+accuracy 0.5096% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2700,  e_loss:24.883970260620117,  d_loss:9.091887474060059,  g_loss:20.28522300720215,  c_loss:22.18152618408203
+accuracy 51.76% for K=1
+accuracy 0.5176% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2710,  e_loss:27.090373992919922,  d_loss:10.53143310546875,  g_loss:17.539304733276367,  c_loss:20.311471939086914
+accuracy 52.16% for K=1
+accuracy 0.5216% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2720,  e_loss:26.297954559326172,  d_loss:10.631281852722168,  g_loss:21.304359436035156,  c_loss:22.18134880065918
+accuracy 51.519999999999996% for K=1
+accuracy 0.5152% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 4e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2730,  e_loss:25.849945068359375,  d_loss:10.357246398925781,  g_loss:19.18709945678711,  c_loss:22.181724548339844
+accuracy 51.12% for K=1
+accuracy 0.5112% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2740,  e_loss:24.546295166015625,  d_loss:8.959773063659668,  g_loss:15.78244686126709,  c_loss:22.181468963623047
+accuracy 49.76% for K=1
+accuracy 0.4976% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2750,  e_loss:23.14786148071289,  d_loss:7.477674961090088,  g_loss:13.294376373291016,  c_loss:22.18219757080078
+accuracy 50.72% for K=1
+accuracy 0.5072% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2760,  e_loss:25.35544204711914,  d_loss:9.371484756469727,  g_loss:19.829360961914062,  c_loss:20.31072235107422
+accuracy 52.16% for K=1
+accuracy 0.5216% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2770,  e_loss:24.964115142822266,  d_loss:9.812042236328125,  g_loss:13.003318786621094,  c_loss:20.311843872070312
+accuracy 50.239999999999995% for K=1
+accuracy 0.5024% for K=1
+accuracy_Pro 8.08% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2780,  e_loss:26.0135498046875,  d_loss:8.813047409057617,  g_loss:19.149986267089844,  c_loss:22.181243896484375
+accuracy 51.04% for K=1
+accuracy 0.5104% for K=1
+accuracy_Pro 7.6% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2790,  e_loss:24.242237091064453,  d_loss:7.5393805503845215,  g_loss:13.404580116271973,  c_loss:22.181411743164062
+accuracy 52.959999999999994% for K=1
+accuracy 0.5296% for K=1
+accuracy_Pro 9.04% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2800,  e_loss:23.862327575683594,  d_loss:8.02550983428955,  g_loss:13.183989524841309,  c_loss:20.311113357543945
+accuracy 51.04% for K=1
+accuracy 0.5104% for K=1
+accuracy_Pro 9.44% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2810,  e_loss:21.972238540649414,  d_loss:7.235884666442871,  g_loss:14.28317642211914,  c_loss:20.356138229370117
+accuracy 51.68000000000001% for K=1
+accuracy 0.5168% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2820,  e_loss:22.16457748413086,  d_loss:7.760623455047607,  g_loss:14.918456077575684,  c_loss:22.181306838989258
+accuracy 51.04% for K=1
+accuracy 0.5104% for K=1
+accuracy_Pro 9.92% for K=1
+MSE meu 4e-08%  MSE: 6.999999868639861e-08
+Precision : 0.028 Recall : 0.028 f1 : 0.028 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2830,  e_loss:26.190631866455078,  d_loss:10.504701614379883,  g_loss:16.755125045776367,  c_loss:20.311159133911133
+accuracy 50.63999999999999% for K=1
+accuracy 0.5064% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2840,  e_loss:26.238052368164062,  d_loss:10.216806411743164,  g_loss:16.237367630004883,  c_loss:22.181425094604492
+accuracy 51.68000000000001% for K=1
+accuracy 0.5168% for K=1
+accuracy_Pro 9.520000000000001% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2850,  e_loss:25.586095809936523,  d_loss:8.829729080200195,  g_loss:14.88150691986084,  c_loss:20.31125831604004
+accuracy 53.52% for K=1
+accuracy 0.5352% for K=1
+accuracy_Pro 9.36% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2860,  e_loss:24.836715698242188,  d_loss:7.9471635818481445,  g_loss:14.033153533935547,  c_loss:22.181760787963867
+accuracy 52.400000000000006% for K=1
+accuracy 0.524% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2870,  e_loss:23.51229476928711,  d_loss:8.05754566192627,  g_loss:12.39801025390625,  c_loss:22.181867599487305
+accuracy 49.68% for K=1
+accuracy 0.4968% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2880,  e_loss:25.014846801757812,  d_loss:8.350242614746094,  g_loss:9.16423511505127,  c_loss:22.18523406982422
+accuracy 51.839999999999996% for K=1
+accuracy 0.5184% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2890,  e_loss:22.69647216796875,  d_loss:7.304240703582764,  g_loss:13.311588287353516,  c_loss:22.18100357055664
+accuracy 49.44% for K=1
+accuracy 0.4944% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2900,  e_loss:22.13795280456543,  d_loss:7.017877578735352,  g_loss:13.7337064743042,  c_loss:22.181577682495117
+accuracy 52.16% for K=1
+accuracy 0.5216% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2910,  e_loss:24.242210388183594,  d_loss:7.910769462585449,  g_loss:13.39999771118164,  c_loss:22.182836532592773
+accuracy 50.080000000000005% for K=1
+accuracy 0.5008% for K=1
+accuracy_Pro 8.559999999999999% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2920,  e_loss:23.69448471069336,  d_loss:7.71321439743042,  g_loss:19.66383934020996,  c_loss:22.18149185180664
+accuracy 52.959999999999994% for K=1
+accuracy 0.5296% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2930,  e_loss:31.302688598632812,  d_loss:9.738627433776855,  g_loss:17.892656326293945,  c_loss:18.474018096923828
+accuracy 51.839999999999996% for K=1
+accuracy 0.5184% for K=1
+accuracy_Pro 8.959999999999999% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2940,  e_loss:22.78094482421875,  d_loss:7.76437520980835,  g_loss:11.262901306152344,  c_loss:22.183124542236328
+accuracy 50.8% for K=1
+accuracy 0.508% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2950,  e_loss:25.798358917236328,  d_loss:7.542167663574219,  g_loss:15.01049518585205,  c_loss:22.1812744140625
+accuracy 52.080000000000005% for K=1
+accuracy 0.5208% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2960,  e_loss:25.03802490234375,  d_loss:8.131278038024902,  g_loss:15.503552436828613,  c_loss:18.475265502929688
+accuracy 52.72% for K=1
+accuracy 0.5272% for K=1
+accuracy_Pro 8.64% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2970,  e_loss:23.613666534423828,  d_loss:8.316438674926758,  g_loss:9.817994117736816,  c_loss:20.31355857849121
+accuracy 53.839999999999996% for K=1
+accuracy 0.5384% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2980,  e_loss:23.163856506347656,  d_loss:7.330685615539551,  g_loss:15.265897750854492,  c_loss:22.182889938354492
+accuracy 53.2% for K=1
+accuracy 0.532% for K=1
+accuracy_Pro 10.32% for K=1
+MSE meu 4e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 2990,  e_loss:21.634910583496094,  d_loss:6.483172416687012,  g_loss:11.87836742401123,  c_loss:22.187850952148438
+accuracy 52.239999999999995% for K=1
+accuracy 0.5224% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3000,  e_loss:24.23267364501953,  d_loss:7.379179000854492,  g_loss:13.560834884643555,  c_loss:22.180965423583984
+accuracy 52.400000000000006% for K=1
+accuracy 0.524% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3010,  e_loss:60.47299575805664,  d_loss:36.06695556640625,  g_loss:14.50212574005127,  c_loss:20.311159133911133
+accuracy 72.39999999999999% for K=1
+accuracy 0.724% for K=1
+accuracy_Pro 2.0% for K=1
+MSE meu 2.1e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3020,  e_loss:55.54570388793945,  d_loss:31.68155860900879,  g_loss:11.547999382019043,  c_loss:22.183107376098633
+accuracy 69.19999999999999% for K=1
+accuracy 0.692% for K=1
+accuracy_Pro 4.4799999999999995% for K=1
+MSE meu 1.5e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3030,  e_loss:54.45132064819336,  d_loss:30.086444854736328,  g_loss:10.9103364944458,  c_loss:20.31407928466797
+accuracy 68.08% for K=1
+accuracy 0.6808% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3040,  e_loss:56.642478942871094,  d_loss:33.83824157714844,  g_loss:7.218550682067871,  c_loss:22.188133239746094
+accuracy 68.08% for K=1
+accuracy 0.6808% for K=1
+accuracy_Pro 5.6000000000000005% for K=1
+MSE meu 1.5e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3050,  e_loss:53.6664924621582,  d_loss:30.329853057861328,  g_loss:7.4171833992004395,  c_loss:20.31359100341797
+accuracy 66.88% for K=1
+accuracy 0.6688% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 1.2e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3060,  e_loss:52.498626708984375,  d_loss:30.0125732421875,  g_loss:16.213441848754883,  c_loss:20.314176559448242
+accuracy 66.32000000000001% for K=1
+accuracy 0.6632% for K=1
+accuracy_Pro 5.6000000000000005% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3070,  e_loss:48.105281829833984,  d_loss:25.645837783813477,  g_loss:15.230380058288574,  c_loss:22.1818904876709
+accuracy 68.24% for K=1
+accuracy 0.6824% for K=1
+accuracy_Pro 6.72% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3080,  e_loss:49.634979248046875,  d_loss:25.918598175048828,  g_loss:7.918111801147461,  c_loss:18.47864532470703
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3090,  e_loss:42.571510314941406,  d_loss:22.480953216552734,  g_loss:9.541090965270996,  c_loss:22.185794830322266
+accuracy 69.19999999999999% for K=1
+accuracy 0.692% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 1.2e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3100,  e_loss:50.259918212890625,  d_loss:26.121944427490234,  g_loss:8.431428909301758,  c_loss:22.185993194580078
+accuracy 68.24% for K=1
+accuracy 0.6824% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3110,  e_loss:43.899967193603516,  d_loss:21.86725616455078,  g_loss:7.425718784332275,  c_loss:22.207874298095703
+accuracy 69.92% for K=1
+accuracy 0.6992% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3120,  e_loss:46.73099899291992,  d_loss:23.590816497802734,  g_loss:12.836616516113281,  c_loss:22.18335723876953
+accuracy 70.24000000000001% for K=1
+accuracy 0.7024% for K=1
+accuracy_Pro 8.559999999999999% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3130,  e_loss:44.58151626586914,  d_loss:21.18801498413086,  g_loss:8.909912109375,  c_loss:20.314096450805664
+accuracy 66.32000000000001% for K=1
+accuracy 0.6632% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3140,  e_loss:46.3658447265625,  d_loss:24.279354095458984,  g_loss:13.070234298706055,  c_loss:20.31667137145996
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 9.44% for K=1
+MSE meu 5e-08%  MSE: 7.999999951380232e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3150,  e_loss:44.6631965637207,  d_loss:20.412433624267578,  g_loss:15.547876358032227,  c_loss:20.311262130737305
+accuracy 66.56% for K=1
+accuracy 0.6656% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3160,  e_loss:45.54884338378906,  d_loss:21.337623596191406,  g_loss:15.42249584197998,  c_loss:22.181446075439453
+accuracy 69.28% for K=1
+accuracy 0.6928% for K=1
+accuracy_Pro 9.36% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3170,  e_loss:48.08546829223633,  d_loss:24.933013916015625,  g_loss:12.654667854309082,  c_loss:22.276443481445312
+accuracy 64.8% for K=1
+accuracy 0.648% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3180,  e_loss:48.55924987792969,  d_loss:25.739643096923828,  g_loss:14.630087852478027,  c_loss:20.355690002441406
+accuracy 69.6% for K=1
+accuracy 0.696% for K=1
+accuracy_Pro 8.08% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3190,  e_loss:43.054588317871094,  d_loss:20.72423553466797,  g_loss:14.948549270629883,  c_loss:20.311328887939453
+accuracy 69.76% for K=1
+accuracy 0.6976% for K=1
+accuracy_Pro 9.36% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3200,  e_loss:48.10762023925781,  d_loss:23.853160858154297,  g_loss:12.389244079589844,  c_loss:18.47557258605957
+accuracy 70.88% for K=1
+accuracy 0.7088% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3210,  e_loss:42.75144958496094,  d_loss:20.700275421142578,  g_loss:13.307337760925293,  c_loss:22.18161392211914
+accuracy 67.2% for K=1
+accuracy 0.672% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3220,  e_loss:39.931640625,  d_loss:20.138656616210938,  g_loss:9.224143028259277,  c_loss:18.474267959594727
+accuracy 69.28% for K=1
+accuracy 0.6928% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3230,  e_loss:45.079994201660156,  d_loss:19.132953643798828,  g_loss:9.644926071166992,  c_loss:22.228750228881836
+accuracy 66.47999999999999% for K=1
+accuracy 0.6648% for K=1
+accuracy_Pro 8.08% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3240,  e_loss:42.836788177490234,  d_loss:19.69649887084961,  g_loss:10.908090591430664,  c_loss:20.312171936035156
+accuracy 65.75999999999999% for K=1
+accuracy 0.6576% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3250,  e_loss:41.9899787902832,  d_loss:20.26616668701172,  g_loss:17.321327209472656,  c_loss:18.474414825439453
+accuracy 66.24% for K=1
+accuracy 0.6624% for K=1
+accuracy_Pro 7.6% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3260,  e_loss:36.725341796875,  d_loss:15.359657287597656,  g_loss:9.992874145507812,  c_loss:20.31169891357422
+accuracy 65.2% for K=1
+accuracy 0.652% for K=1
+accuracy_Pro 8.72% for K=1
+MSE meu 1e-07%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3270,  e_loss:49.68412780761719,  d_loss:24.88516616821289,  g_loss:12.895842552185059,  c_loss:22.18121337890625
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 8.24% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3280,  e_loss:50.308074951171875,  d_loss:26.495609283447266,  g_loss:13.117321968078613,  c_loss:22.18136215209961
+accuracy 70.32000000000001% for K=1
+accuracy 0.7032% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3290,  e_loss:40.526405334472656,  d_loss:18.79960060119629,  g_loss:14.725632667541504,  c_loss:22.181110382080078
+accuracy 65.60000000000001% for K=1
+accuracy 0.656% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3300,  e_loss:42.30204772949219,  d_loss:19.12614631652832,  g_loss:10.479238510131836,  c_loss:22.181486129760742
+accuracy 64.96% for K=1
+accuracy 0.6496% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3310,  e_loss:37.49879837036133,  d_loss:16.71773338317871,  g_loss:11.655935287475586,  c_loss:16.672956466674805
+accuracy 67.75999999999999% for K=1
+accuracy 0.6776% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3320,  e_loss:37.439056396484375,  d_loss:16.404735565185547,  g_loss:16.55597686767578,  c_loss:20.310937881469727
+accuracy 70.56% for K=1
+accuracy 0.7056% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3330,  e_loss:38.658363342285156,  d_loss:17.549097061157227,  g_loss:10.47104549407959,  c_loss:20.311166763305664
+accuracy 69.12% for K=1
+accuracy 0.6912% for K=1
+accuracy_Pro 8.959999999999999% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3340,  e_loss:38.41329574584961,  d_loss:16.355457305908203,  g_loss:9.691692352294922,  c_loss:23.224565505981445
+accuracy 71.36% for K=1
+accuracy 0.7136% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 1.4e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3350,  e_loss:39.860992431640625,  d_loss:17.125905990600586,  g_loss:9.921064376831055,  c_loss:20.311233520507812
+accuracy 68.32000000000001% for K=1
+accuracy 0.6832% for K=1
+accuracy_Pro 7.6% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3360,  e_loss:43.025978088378906,  d_loss:20.620128631591797,  g_loss:13.460871696472168,  c_loss:22.181385040283203
+accuracy 67.75999999999999% for K=1
+accuracy 0.6776% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1.3e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3370,  e_loss:37.713523864746094,  d_loss:16.807262420654297,  g_loss:12.012804985046387,  c_loss:22.181499481201172
+accuracy 67.67999999999999% for K=1
+accuracy 0.6768% for K=1
+accuracy_Pro 8.4% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3380,  e_loss:44.70903778076172,  d_loss:21.12327766418457,  g_loss:9.00593376159668,  c_loss:18.47754669189453
+accuracy 65.92% for K=1
+accuracy 0.6592% for K=1
+accuracy_Pro 6.88% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3390,  e_loss:39.07288360595703,  d_loss:15.858787536621094,  g_loss:11.857669830322266,  c_loss:22.181371688842773
+accuracy 66.64% for K=1
+accuracy 0.6664% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3400,  e_loss:36.397666931152344,  d_loss:15.850706100463867,  g_loss:12.477825164794922,  c_loss:22.181568145751953
+accuracy 67.44% for K=1
+accuracy 0.6744% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3410,  e_loss:40.243011474609375,  d_loss:17.124698638916016,  g_loss:10.184439659118652,  c_loss:22.181514739990234
+accuracy 66.56% for K=1
+accuracy 0.6656% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3420,  e_loss:37.475303649902344,  d_loss:16.110427856445312,  g_loss:13.028406143188477,  c_loss:22.180946350097656
+accuracy 68.08% for K=1
+accuracy 0.6808% for K=1
+accuracy_Pro 5.76% for K=1
+MSE meu 1.5e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3430,  e_loss:39.98987579345703,  d_loss:16.763092041015625,  g_loss:12.02231216430664,  c_loss:22.181337356567383
+accuracy 66.32000000000001% for K=1
+accuracy 0.6632% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.016 Recall : 0.016 f1 : 0.016 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3440,  e_loss:45.41277313232422,  d_loss:19.65572738647461,  g_loss:12.193204879760742,  c_loss:22.181684494018555
+accuracy 64.8% for K=1
+accuracy 0.648% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.028 Recall : 0.028 f1 : 0.028 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3450,  e_loss:37.18342208862305,  d_loss:17.240299224853516,  g_loss:17.31427574157715,  c_loss:20.31121253967285
+accuracy 66.47999999999999% for K=1
+accuracy 0.6648% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3460,  e_loss:34.89305877685547,  d_loss:15.314773559570312,  g_loss:18.253868103027344,  c_loss:22.181583404541016
+accuracy 65.75999999999999% for K=1
+accuracy 0.6576% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 1.3e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3470,  e_loss:38.13616180419922,  d_loss:18.023954391479492,  g_loss:20.08721351623535,  c_loss:22.181020736694336
+accuracy 67.52% for K=1
+accuracy 0.6752% for K=1
+accuracy_Pro 6.08% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3480,  e_loss:37.4966926574707,  d_loss:15.310867309570312,  g_loss:11.62015438079834,  c_loss:22.181734085083008
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 1.2e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3490,  e_loss:37.54807662963867,  d_loss:15.299120903015137,  g_loss:13.661124229431152,  c_loss:20.310962677001953
+accuracy 68.4% for K=1
+accuracy 0.684% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3500,  e_loss:34.919639587402344,  d_loss:15.428174018859863,  g_loss:14.09542179107666,  c_loss:22.181400299072266
+accuracy 64.8% for K=1
+accuracy 0.648% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3510,  e_loss:36.4166259765625,  d_loss:14.254379272460938,  g_loss:13.287027359008789,  c_loss:22.181358337402344
+accuracy 64.96% for K=1
+accuracy 0.6496% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 1.4e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3520,  e_loss:36.08177185058594,  d_loss:15.31065559387207,  g_loss:15.280223846435547,  c_loss:20.31092643737793
+accuracy 66.08000000000001% for K=1
+accuracy 0.6608% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3530,  e_loss:34.62855529785156,  d_loss:14.525012969970703,  g_loss:11.954996109008789,  c_loss:20.31084632873535
+accuracy 71.12% for K=1
+accuracy 0.7112% for K=1
+accuracy_Pro 5.76% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0136 Recall : 0.0136 f1 : 0.0136 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3540,  e_loss:41.35249328613281,  d_loss:18.015399932861328,  g_loss:9.003665924072266,  c_loss:20.312116622924805
+accuracy 69.84% for K=1
+accuracy 0.6984% for K=1
+accuracy_Pro 7.359999999999999% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0168 Recall : 0.0168 f1 : 0.0168 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3550,  e_loss:36.74435806274414,  d_loss:14.780756950378418,  g_loss:13.081628799438477,  c_loss:20.31084442138672
+accuracy 68.96% for K=1
+accuracy 0.6896% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 1.3e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3560,  e_loss:41.32818603515625,  d_loss:19.74760627746582,  g_loss:14.205218315124512,  c_loss:16.67283821105957
+accuracy 68.64% for K=1
+accuracy 0.6864% for K=1
+accuracy_Pro 7.359999999999999% for K=1
+MSE meu 1.2e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.028 Recall : 0.028 f1 : 0.028 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3570,  e_loss:36.373329162597656,  d_loss:14.672225952148438,  g_loss:13.99655532836914,  c_loss:22.1815185546875
+accuracy 68.32000000000001% for K=1
+accuracy 0.6832% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 1.2e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3580,  e_loss:35.870521545410156,  d_loss:15.556180953979492,  g_loss:13.550315856933594,  c_loss:22.182270050048828
+accuracy 66.72% for K=1
+accuracy 0.6672% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3590,  e_loss:33.21009063720703,  d_loss:13.531003952026367,  g_loss:12.204745292663574,  c_loss:22.18096923828125
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3600,  e_loss:33.66600036621094,  d_loss:13.00394344329834,  g_loss:10.942688941955566,  c_loss:22.181364059448242
+accuracy 64.4% for K=1
+accuracy 0.644% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 1.1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3610,  e_loss:35.37077713012695,  d_loss:14.676874160766602,  g_loss:12.03264045715332,  c_loss:18.474180221557617
+accuracy 65.2% for K=1
+accuracy 0.652% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3620,  e_loss:32.01133728027344,  d_loss:11.988750457763672,  g_loss:12.034010887145996,  c_loss:20.310741424560547
+accuracy 66.4% for K=1
+accuracy 0.664% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 1.4e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3630,  e_loss:39.33998107910156,  d_loss:16.52594757080078,  g_loss:9.85673999786377,  c_loss:18.474821090698242
+accuracy 66.88% for K=1
+accuracy 0.6688% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3640,  e_loss:31.653644561767578,  d_loss:12.453454971313477,  g_loss:12.944807052612305,  c_loss:20.311037063598633
+accuracy 63.6% for K=1
+accuracy 0.636% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3650,  e_loss:31.655542373657227,  d_loss:12.448451042175293,  g_loss:22.639892578125,  c_loss:22.181249618530273
+accuracy 67.60000000000001% for K=1
+accuracy 0.676% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0144 Recall : 0.0144 f1 : 0.0144 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3660,  e_loss:31.79395294189453,  d_loss:12.291379928588867,  g_loss:11.057226181030273,  c_loss:18.474424362182617
+accuracy 65.12% for K=1
+accuracy 0.6512% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3670,  e_loss:33.37598419189453,  d_loss:13.33364200592041,  g_loss:13.572958946228027,  c_loss:22.18103790283203
+accuracy 66.72% for K=1
+accuracy 0.6672% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3680,  e_loss:34.82603454589844,  d_loss:13.181403160095215,  g_loss:8.496602058410645,  c_loss:20.312864303588867
+accuracy 65.52% for K=1
+accuracy 0.6552% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3690,  e_loss:34.471580505371094,  d_loss:12.814512252807617,  g_loss:8.801780700683594,  c_loss:20.311460494995117
+accuracy 69.67999999999999% for K=1
+accuracy 0.6968% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3700,  e_loss:35.413578033447266,  d_loss:12.35480785369873,  g_loss:13.742463111877441,  c_loss:22.18145179748535
+accuracy 67.52% for K=1
+accuracy 0.6752% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3710,  e_loss:41.014678955078125,  d_loss:15.393159866333008,  g_loss:13.65527629852295,  c_loss:22.181394577026367
+accuracy 67.28% for K=1
+accuracy 0.6728% for K=1
+accuracy_Pro 5.4399999999999995% for K=1
+MSE meu 1.6e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3720,  e_loss:31.01589012145996,  d_loss:12.041555404663086,  g_loss:9.589171409606934,  c_loss:22.18153190612793
+accuracy 68.96% for K=1
+accuracy 0.6896% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3730,  e_loss:33.61640548706055,  d_loss:13.151429176330566,  g_loss:13.502235412597656,  c_loss:18.474872589111328
+accuracy 64.0% for K=1
+accuracy 0.64% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3740,  e_loss:34.48173522949219,  d_loss:14.228038787841797,  g_loss:12.898119926452637,  c_loss:18.47376251220703
+accuracy 66.32000000000001% for K=1
+accuracy 0.6632% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3750,  e_loss:35.449188232421875,  d_loss:15.011982917785645,  g_loss:12.717326164245605,  c_loss:20.31097412109375
+accuracy 65.92% for K=1
+accuracy 0.6592% for K=1
+accuracy_Pro 7.68% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3760,  e_loss:34.88893127441406,  d_loss:13.383401870727539,  g_loss:12.550281524658203,  c_loss:16.672632217407227
+accuracy 67.92% for K=1
+accuracy 0.6792% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3770,  e_loss:34.10847473144531,  d_loss:14.35624885559082,  g_loss:13.800646781921387,  c_loss:20.312124252319336
+accuracy 63.28% for K=1
+accuracy 0.6328% for K=1
+accuracy_Pro 9.36% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3780,  e_loss:36.94660568237305,  d_loss:15.37887191772461,  g_loss:10.88007926940918,  c_loss:22.18111801147461
+accuracy 66.8% for K=1
+accuracy 0.668% for K=1
+accuracy_Pro 8.32% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0288 Recall : 0.0288 f1 : 0.0288 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3790,  e_loss:34.33059310913086,  d_loss:12.230602264404297,  g_loss:14.789118766784668,  c_loss:22.180971145629883
+accuracy 66.56% for K=1
+accuracy 0.6656% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3800,  e_loss:31.797788619995117,  d_loss:11.570961952209473,  g_loss:11.901994705200195,  c_loss:22.18166160583496
+accuracy 64.64% for K=1
+accuracy 0.6464% for K=1
+accuracy_Pro 8.64% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3810,  e_loss:33.36116027832031,  d_loss:11.616094589233398,  g_loss:13.148635864257812,  c_loss:20.31106185913086
+accuracy 70.24000000000001% for K=1
+accuracy 0.7024% for K=1
+accuracy_Pro 10.56% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3820,  e_loss:33.936492919921875,  d_loss:13.683907508850098,  g_loss:16.522680282592773,  c_loss:22.181230545043945
+accuracy 69.36% for K=1
+accuracy 0.6936% for K=1
+accuracy_Pro 8.88% for K=1
+MSE meu 6e-08%  MSE: 1.199999957179898e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3830,  e_loss:45.9539794921875,  d_loss:13.044303894042969,  g_loss:14.214667320251465,  c_loss:22.181015014648438
+accuracy 70.0% for K=1
+accuracy 0.7% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 8e-08%  MSE: 1.3999999737279722e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3840,  e_loss:33.56565856933594,  d_loss:12.44245719909668,  g_loss:13.622048377990723,  c_loss:20.311120986938477
+accuracy 71.2% for K=1
+accuracy 0.712% for K=1
+accuracy_Pro 11.68% for K=1
+MSE meu 5e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3850,  e_loss:31.642932891845703,  d_loss:12.198980331420898,  g_loss:11.11456298828125,  c_loss:22.183223724365234
+accuracy 66.24% for K=1
+accuracy 0.6624% for K=1
+accuracy_Pro 5.680000000000001% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3860,  e_loss:33.22536087036133,  d_loss:12.374388694763184,  g_loss:16.68760108947754,  c_loss:22.1821231842041
+accuracy 64.8% for K=1
+accuracy 0.648% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3870,  e_loss:34.67113494873047,  d_loss:12.900457382202148,  g_loss:14.491133689880371,  c_loss:20.311071395874023
+accuracy 66.0% for K=1
+accuracy 0.66% for K=1
+accuracy_Pro 6.0% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3880,  e_loss:29.952062606811523,  d_loss:10.963170051574707,  g_loss:12.709052085876465,  c_loss:22.181142807006836
+accuracy 66.47999999999999% for K=1
+accuracy 0.6648% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3890,  e_loss:33.295989990234375,  d_loss:12.426685333251953,  g_loss:15.45862865447998,  c_loss:20.310606002807617
+accuracy 67.44% for K=1
+accuracy 0.6744% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3900,  e_loss:30.974775314331055,  d_loss:11.685050964355469,  g_loss:16.260154724121094,  c_loss:22.180849075317383
+accuracy 66.88% for K=1
+accuracy 0.6688% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3910,  e_loss:35.66650390625,  d_loss:13.730020523071289,  g_loss:15.107301712036133,  c_loss:22.181293487548828
+accuracy 68.4% for K=1
+accuracy 0.684% for K=1
+accuracy_Pro 7.6% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3920,  e_loss:29.85755157470703,  d_loss:10.694841384887695,  g_loss:14.199362754821777,  c_loss:16.67253303527832
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 7.04% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3930,  e_loss:30.905012130737305,  d_loss:11.005758285522461,  g_loss:11.195737838745117,  c_loss:22.181615829467773
+accuracy 68.72% for K=1
+accuracy 0.6872% for K=1
+accuracy_Pro 8.559999999999999% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3940,  e_loss:32.807464599609375,  d_loss:11.128045082092285,  g_loss:11.972050666809082,  c_loss:16.673030853271484
+accuracy 66.56% for K=1
+accuracy 0.6656% for K=1
+accuracy_Pro 8.88% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3950,  e_loss:33.667938232421875,  d_loss:13.377952575683594,  g_loss:18.263813018798828,  c_loss:20.310606002807617
+accuracy 64.48% for K=1
+accuracy 0.6448% for K=1
+accuracy_Pro 10.48% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3960,  e_loss:30.350200653076172,  d_loss:11.137344360351562,  g_loss:12.339774131774902,  c_loss:22.1812801361084
+accuracy 64.48% for K=1
+accuracy 0.6448% for K=1
+accuracy_Pro 10.879999999999999% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3970,  e_loss:28.4603271484375,  d_loss:10.3521728515625,  g_loss:10.785163879394531,  c_loss:20.31142234802246
+accuracy 63.92% for K=1
+accuracy 0.6392% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 1.1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3980,  e_loss:31.179712295532227,  d_loss:10.87462043762207,  g_loss:11.037301063537598,  c_loss:20.311443328857422
+accuracy 66.32000000000001% for K=1
+accuracy 0.6632% for K=1
+accuracy_Pro 5.680000000000001% for K=1
+MSE meu 1.6e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 3990,  e_loss:30.53627586364746,  d_loss:11.691560745239258,  g_loss:15.350383758544922,  c_loss:22.181365966796875
+accuracy 66.08000000000001% for K=1
+accuracy 0.6608% for K=1
+accuracy_Pro 5.92% for K=1
+MSE meu 1.7e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4000,  e_loss:30.326953887939453,  d_loss:11.402609825134277,  g_loss:14.075708389282227,  c_loss:22.18118667602539
+accuracy 68.72% for K=1
+accuracy 0.6872% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4010,  e_loss:33.96644592285156,  d_loss:13.097782135009766,  g_loss:11.138371467590332,  c_loss:20.311128616333008
+accuracy 70.39999999999999% for K=1
+accuracy 0.704% for K=1
+accuracy_Pro 8.64% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4020,  e_loss:30.27300453186035,  d_loss:11.47420883178711,  g_loss:13.683622360229492,  c_loss:22.181201934814453
+accuracy 64.48% for K=1
+accuracy 0.6448% for K=1
+accuracy_Pro 9.84% for K=1
+MSE meu 6e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4030,  e_loss:28.0853271484375,  d_loss:9.993645668029785,  g_loss:11.477130889892578,  c_loss:20.311920166015625
+accuracy 64.48% for K=1
+accuracy 0.6448% for K=1
+accuracy_Pro 8.799999999999999% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4040,  e_loss:31.2745361328125,  d_loss:11.231147766113281,  g_loss:14.646137237548828,  c_loss:20.310794830322266
+accuracy 65.52% for K=1
+accuracy 0.6552% for K=1
+accuracy_Pro 8.88% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0312 Recall : 0.0312 f1 : 0.0312 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4050,  e_loss:29.371259689331055,  d_loss:10.536489486694336,  g_loss:14.619791984558105,  c_loss:20.310617446899414
+accuracy 64.96% for K=1
+accuracy 0.6496% for K=1
+accuracy_Pro 8.559999999999999% for K=1
+MSE meu 9e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4060,  e_loss:29.494365692138672,  d_loss:11.553844451904297,  g_loss:15.27108383178711,  c_loss:20.311994552612305
+accuracy 66.64% for K=1
+accuracy 0.6664% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4070,  e_loss:31.01760482788086,  d_loss:12.103838920593262,  g_loss:14.115191459655762,  c_loss:22.181076049804688
+accuracy 63.44% for K=1
+accuracy 0.6344% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4080,  e_loss:34.01874542236328,  d_loss:12.779290199279785,  g_loss:11.635448455810547,  c_loss:22.181720733642578
+accuracy 63.2% for K=1
+accuracy 0.632% for K=1
+accuracy_Pro 7.04% for K=1
+MSE meu 7e-08%  MSE: 6.999999868639861e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4090,  e_loss:33.105224609375,  d_loss:11.708686828613281,  g_loss:14.390778541564941,  c_loss:22.18099594116211
+accuracy 68.0% for K=1
+accuracy 0.68% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4100,  e_loss:28.12747573852539,  d_loss:9.88994026184082,  g_loss:15.181517601013184,  c_loss:22.181108474731445
+accuracy 64.4% for K=1
+accuracy 0.644% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4110,  e_loss:29.852935791015625,  d_loss:10.839651107788086,  g_loss:13.257973670959473,  c_loss:20.310728073120117
+accuracy 66.56% for K=1
+accuracy 0.6656% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4120,  e_loss:33.51818084716797,  d_loss:13.051774978637695,  g_loss:11.904012680053711,  c_loss:20.310714721679688
+accuracy 67.84% for K=1
+accuracy 0.6784% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0288 Recall : 0.0288 f1 : 0.0288 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4130,  e_loss:31.57659149169922,  d_loss:11.179186820983887,  g_loss:13.693351745605469,  c_loss:22.181806564331055
+accuracy 68.16% for K=1
+accuracy 0.6816% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1.2e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4140,  e_loss:30.539936065673828,  d_loss:10.283998489379883,  g_loss:14.252215385437012,  c_loss:22.180992126464844
+accuracy 68.16% for K=1
+accuracy 0.6816% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4150,  e_loss:28.5220947265625,  d_loss:9.782268524169922,  g_loss:13.323719024658203,  c_loss:18.47414779663086
+accuracy 70.32000000000001% for K=1
+accuracy 0.7032% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4160,  e_loss:30.78424835205078,  d_loss:10.692588806152344,  g_loss:14.750812530517578,  c_loss:22.181381225585938
+accuracy 71.12% for K=1
+accuracy 0.7112% for K=1
+accuracy_Pro 5.92% for K=1
+MSE meu 1.7e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4170,  e_loss:31.354345321655273,  d_loss:11.28780746459961,  g_loss:16.607616424560547,  c_loss:20.3111629486084
+accuracy 69.84% for K=1
+accuracy 0.6984% for K=1
+accuracy_Pro 5.84% for K=1
+MSE meu 1.8e-07%  MSE: 1.5999999902760464e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4180,  e_loss:28.592552185058594,  d_loss:9.972290992736816,  g_loss:14.132205963134766,  c_loss:22.18088150024414
+accuracy 67.04% for K=1
+accuracy 0.6704% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 7e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4190,  e_loss:30.210304260253906,  d_loss:11.150792121887207,  g_loss:16.601696014404297,  c_loss:20.31062889099121
+accuracy 64.72% for K=1
+accuracy 0.6472% for K=1
+accuracy_Pro 7.920000000000001% for K=1
+MSE meu 5e-08%  MSE: 6.999999868639861e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4200,  e_loss:31.354894638061523,  d_loss:10.466165542602539,  g_loss:14.150135040283203,  c_loss:22.180904388427734
+accuracy 64.32% for K=1
+accuracy 0.6432% for K=1
+accuracy_Pro 7.04% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4210,  e_loss:31.80065155029297,  d_loss:12.374369621276855,  g_loss:14.213179588317871,  c_loss:22.18091583251953
+accuracy 67.28% for K=1
+accuracy 0.6728% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4220,  e_loss:28.802934646606445,  d_loss:10.631457328796387,  g_loss:16.065351486206055,  c_loss:20.310855865478516
+accuracy 66.64% for K=1
+accuracy 0.6664% for K=1
+accuracy_Pro 8.08% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4230,  e_loss:27.66897201538086,  d_loss:9.39588737487793,  g_loss:12.985934257507324,  c_loss:16.673311233520508
+accuracy 65.44% for K=1
+accuracy 0.6544% for K=1
+accuracy_Pro 9.120000000000001% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4240,  e_loss:30.30193519592285,  d_loss:10.426687240600586,  g_loss:10.996369361877441,  c_loss:20.314340591430664
+accuracy 68.08% for K=1
+accuracy 0.6808% for K=1
+accuracy_Pro 10.8% for K=1
+MSE meu 8e-08%  MSE: 1.0000000116860974e-07
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4250,  e_loss:31.371946334838867,  d_loss:10.064149856567383,  g_loss:9.49705696105957,  c_loss:22.183523178100586
+accuracy 68.47999999999999% for K=1
+accuracy 0.6848% for K=1
+accuracy_Pro 7.04% for K=1
+MSE meu 7e-08%  MSE: 1.199999957179898e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4260,  e_loss:28.603797912597656,  d_loss:10.259381294250488,  g_loss:13.237869262695312,  c_loss:20.311281204223633
+accuracy 64.72% for K=1
+accuracy 0.6472% for K=1
+accuracy_Pro 9.76% for K=1
+MSE meu 5e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4270,  e_loss:27.69026756286621,  d_loss:9.934966087341309,  g_loss:12.329015731811523,  c_loss:22.18092918395996
+accuracy 66.72% for K=1
+accuracy 0.6672% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4280,  e_loss:27.243072509765625,  d_loss:9.151525497436523,  g_loss:13.403983116149902,  c_loss:18.473554611206055
+accuracy 65.28% for K=1
+accuracy 0.6528% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4290,  e_loss:29.544858932495117,  d_loss:10.222383499145508,  g_loss:14.20743465423584,  c_loss:22.180892944335938
+accuracy 65.36% for K=1
+accuracy 0.6536% for K=1
+accuracy_Pro 5.76% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4300,  e_loss:30.36488914489746,  d_loss:10.006669044494629,  g_loss:16.417654037475586,  c_loss:22.181303024291992
+accuracy 65.68% for K=1
+accuracy 0.6568% for K=1
+accuracy_Pro 6.0% for K=1
+MSE meu 1.9e-07%  MSE: 1.5999999902760464e-07
+Precision : 0.0192 Recall : 0.0192 f1 : 0.0192 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4310,  e_loss:27.23744773864746,  d_loss:10.122264862060547,  g_loss:12.456050872802734,  c_loss:22.18107795715332
+accuracy 70.0% for K=1
+accuracy 0.7% for K=1
+accuracy_Pro 5.6000000000000005% for K=1
+MSE meu 2e-07%  MSE: 1.700000069604357e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4320,  e_loss:30.66227149963379,  d_loss:9.953218460083008,  g_loss:11.073285102844238,  c_loss:20.311674118041992
+accuracy 68.96% for K=1
+accuracy 0.6896% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4330,  e_loss:30.417800903320312,  d_loss:11.838939666748047,  g_loss:13.924321174621582,  c_loss:22.181102752685547
+accuracy 68.08% for K=1
+accuracy 0.6808% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4340,  e_loss:27.614253997802734,  d_loss:9.986431121826172,  g_loss:12.608600616455078,  c_loss:20.310890197753906
+accuracy 64.56% for K=1
+accuracy 0.6456% for K=1
+accuracy_Pro 6.88% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4350,  e_loss:28.436933517456055,  d_loss:9.249131202697754,  g_loss:14.509078025817871,  c_loss:20.31064224243164
+accuracy 68.56% for K=1
+accuracy 0.6856% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4360,  e_loss:31.647602081298828,  d_loss:11.14787483215332,  g_loss:14.373016357421875,  c_loss:22.180994033813477
+accuracy 66.72% for K=1
+accuracy 0.6672% for K=1
+accuracy_Pro 6.88% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4370,  e_loss:29.838544845581055,  d_loss:9.862579345703125,  g_loss:14.122193336486816,  c_loss:18.473817825317383
+accuracy 67.44% for K=1
+accuracy 0.6744% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4380,  e_loss:30.285572052001953,  d_loss:10.972862243652344,  g_loss:12.627799987792969,  c_loss:22.181169509887695
+accuracy 67.28% for K=1
+accuracy 0.6728% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4390,  e_loss:28.500150680541992,  d_loss:9.76805591583252,  g_loss:14.945388793945312,  c_loss:20.31072235107422
+accuracy 64.8% for K=1
+accuracy 0.648% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4400,  e_loss:31.112382888793945,  d_loss:11.347196578979492,  g_loss:13.41384220123291,  c_loss:20.310531616210938
+accuracy 66.08000000000001% for K=1
+accuracy 0.6608% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4410,  e_loss:30.980518341064453,  d_loss:9.970800399780273,  g_loss:12.444740295410156,  c_loss:22.181331634521484
+accuracy 63.2% for K=1
+accuracy 0.632% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4420,  e_loss:29.867401123046875,  d_loss:11.12279224395752,  g_loss:21.271099090576172,  c_loss:22.181177139282227
+accuracy 66.88% for K=1
+accuracy 0.6688% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 7e-08%  MSE: 6.999999868639861e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4430,  e_loss:27.494314193725586,  d_loss:9.211451530456543,  g_loss:15.041089057922363,  c_loss:22.180952072143555
+accuracy 68.72% for K=1
+accuracy 0.6872% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4440,  e_loss:30.012004852294922,  d_loss:10.616052627563477,  g_loss:16.422645568847656,  c_loss:22.180944442749023
+accuracy 66.24% for K=1
+accuracy 0.6624% for K=1
+accuracy_Pro 6.5600000000000005% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4450,  e_loss:26.9637508392334,  d_loss:8.89307975769043,  g_loss:15.482344627380371,  c_loss:22.18082618713379
+accuracy 70.0% for K=1
+accuracy 0.7% for K=1
+accuracy_Pro 7.359999999999999% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4460,  e_loss:26.691282272338867,  d_loss:8.932452201843262,  g_loss:16.747766494750977,  c_loss:20.310630798339844
+accuracy 69.92% for K=1
+accuracy 0.6992% for K=1
+accuracy_Pro 7.04% for K=1
+MSE meu 1.4e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4470,  e_loss:27.619840621948242,  d_loss:8.5372953414917,  g_loss:14.69575309753418,  c_loss:22.180904388427734
+accuracy 72.0% for K=1
+accuracy 0.72% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.028 Recall : 0.028 f1 : 0.028 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4480,  e_loss:31.660480499267578,  d_loss:9.79460620880127,  g_loss:13.48786735534668,  c_loss:22.180871963500977
+accuracy 73.92% for K=1
+accuracy 0.7392% for K=1
+accuracy_Pro 6.5600000000000005% for K=1
+MSE meu 1.5e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4490,  e_loss:29.46884536743164,  d_loss:8.924957275390625,  g_loss:12.521342277526855,  c_loss:22.181074142456055
+accuracy 71.84% for K=1
+accuracy 0.7184% for K=1
+accuracy_Pro 6.5600000000000005% for K=1
+MSE meu 1.6e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4500,  e_loss:27.360912322998047,  d_loss:9.038297653198242,  g_loss:10.388087272644043,  c_loss:20.310834884643555
+accuracy 71.67999999999999% for K=1
+accuracy 0.7168% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 1.3e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4510,  e_loss:28.31073760986328,  d_loss:9.972021102905273,  g_loss:13.482138633728027,  c_loss:22.18097686767578
+accuracy 69.84% for K=1
+accuracy 0.6984% for K=1
+accuracy_Pro 5.680000000000001% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4520,  e_loss:30.461015701293945,  d_loss:10.38290023803711,  g_loss:12.784592628479004,  c_loss:20.310611724853516
+accuracy 66.4% for K=1
+accuracy 0.664% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4530,  e_loss:29.263111114501953,  d_loss:10.74141788482666,  g_loss:12.716597557067871,  c_loss:22.181005477905273
+accuracy 67.44% for K=1
+accuracy 0.6744% for K=1
+accuracy_Pro 6.800000000000001% for K=1
+MSE meu 9e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4540,  e_loss:27.8356876373291,  d_loss:9.727497100830078,  g_loss:12.810295104980469,  c_loss:22.18113899230957
+accuracy 67.36% for K=1
+accuracy 0.6736% for K=1
+accuracy_Pro 6.64% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0264 Recall : 0.0264 f1 : 0.0264 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4550,  e_loss:28.33622932434082,  d_loss:9.577234268188477,  g_loss:26.408857345581055,  c_loss:20.516977310180664
+accuracy 65.2% for K=1
+accuracy 0.652% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4560,  e_loss:27.709543228149414,  d_loss:9.053594589233398,  g_loss:13.57331371307373,  c_loss:22.18100357055664
+accuracy 69.28% for K=1
+accuracy 0.6928% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4570,  e_loss:27.65379524230957,  d_loss:8.800056457519531,  g_loss:14.394269943237305,  c_loss:18.473737716674805
+accuracy 70.48% for K=1
+accuracy 0.7048% for K=1
+accuracy_Pro 7.4399999999999995% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.028 Recall : 0.028 f1 : 0.028 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4580,  e_loss:26.668251037597656,  d_loss:8.9165620803833,  g_loss:12.532660484313965,  c_loss:22.180896759033203
+accuracy 70.0% for K=1
+accuracy 0.7% for K=1
+accuracy_Pro 7.84% for K=1
+MSE meu 1.1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4590,  e_loss:29.8205623626709,  d_loss:10.78587818145752,  g_loss:12.50643253326416,  c_loss:18.473613739013672
+accuracy 70.08% for K=1
+accuracy 0.7008% for K=1
+accuracy_Pro 8.0% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4600,  e_loss:28.62385368347168,  d_loss:8.59614086151123,  g_loss:12.4972562789917,  c_loss:20.31067657470703
+accuracy 73.92% for K=1
+accuracy 0.7392% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 1.2e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4610,  e_loss:27.220035552978516,  d_loss:8.510828018188477,  g_loss:14.816449165344238,  c_loss:22.180912017822266
+accuracy 74.56% for K=1
+accuracy 0.7456% for K=1
+accuracy_Pro 6.0% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4620,  e_loss:29.442060470581055,  d_loss:10.379899978637695,  g_loss:14.245564460754395,  c_loss:22.181171417236328
+accuracy 72.24000000000001% for K=1
+accuracy 0.7224% for K=1
+accuracy_Pro 6.08% for K=1
+MSE meu 1.5e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4630,  e_loss:28.131790161132812,  d_loss:8.916173934936523,  g_loss:17.502824783325195,  c_loss:22.1809024810791
+accuracy 72.39999999999999% for K=1
+accuracy 0.724% for K=1
+accuracy_Pro 5.04% for K=1
+MSE meu 1.6e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4640,  e_loss:33.85029220581055,  d_loss:10.487003326416016,  g_loss:17.101945877075195,  c_loss:22.181079864501953
+accuracy 71.28% for K=1
+accuracy 0.7128% for K=1
+accuracy_Pro 4.96% for K=1
+MSE meu 1.7e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4650,  e_loss:32.75395965576172,  d_loss:12.467653274536133,  g_loss:11.911792755126953,  c_loss:22.18148422241211
+accuracy 71.44% for K=1
+accuracy 0.7144% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 1.2e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4660,  e_loss:25.97794532775879,  d_loss:8.720048904418945,  g_loss:15.098051071166992,  c_loss:18.473936080932617
+accuracy 65.44% for K=1
+accuracy 0.6544% for K=1
+accuracy_Pro 6.959999999999999% for K=1
+MSE meu 1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4670,  e_loss:26.07783317565918,  d_loss:8.475707054138184,  g_loss:10.929374694824219,  c_loss:22.1810359954834
+accuracy 64.96% for K=1
+accuracy 0.6496% for K=1
+accuracy_Pro 5.92% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4680,  e_loss:25.430957794189453,  d_loss:7.566003799438477,  g_loss:11.502105712890625,  c_loss:22.180898666381836
+accuracy 67.52% for K=1
+accuracy 0.6752% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0288 Recall : 0.0288 f1 : 0.0288 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4690,  e_loss:30.438703536987305,  d_loss:11.820746421813965,  g_loss:17.759859085083008,  c_loss:22.18112564086914
+accuracy 68.64% for K=1
+accuracy 0.6864% for K=1
+accuracy_Pro 9.6% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4700,  e_loss:27.190916061401367,  d_loss:8.404019355773926,  g_loss:14.709606170654297,  c_loss:22.18094825744629
+accuracy 67.75999999999999% for K=1
+accuracy 0.6776% for K=1
+accuracy_Pro 8.16% for K=1
+MSE meu 8e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4710,  e_loss:28.721534729003906,  d_loss:9.80268383026123,  g_loss:11.08515739440918,  c_loss:20.310630798339844
+accuracy 70.8% for K=1
+accuracy 0.708% for K=1
+accuracy_Pro 9.84% for K=1
+MSE meu 7e-08%  MSE: 9.000000034120603e-08
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4720,  e_loss:25.89366912841797,  d_loss:8.578035354614258,  g_loss:13.818283081054688,  c_loss:22.181379318237305
+accuracy 66.32000000000001% for K=1
+accuracy 0.6632% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0272 Recall : 0.0272 f1 : 0.0272 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4730,  e_loss:27.188352584838867,  d_loss:8.685441970825195,  g_loss:13.043468475341797,  c_loss:20.310955047607422
+accuracy 68.47999999999999% for K=1
+accuracy 0.6848% for K=1
+accuracy_Pro 5.76% for K=1
+MSE meu 1.5e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4740,  e_loss:26.809917449951172,  d_loss:8.301474571228027,  g_loss:13.498518943786621,  c_loss:20.31062126159668
+accuracy 69.84% for K=1
+accuracy 0.6984% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 1.6e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4750,  e_loss:27.049745559692383,  d_loss:8.481361389160156,  g_loss:17.10456085205078,  c_loss:22.180931091308594
+accuracy 70.32000000000001% for K=1
+accuracy 0.7032% for K=1
+accuracy_Pro 5.680000000000001% for K=1
+MSE meu 1.8e-07%  MSE: 1.500000053056283e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4760,  e_loss:28.96588897705078,  d_loss:8.656737327575684,  g_loss:14.756143569946289,  c_loss:22.180885314941406
+accuracy 67.36% for K=1
+accuracy 0.6736% for K=1
+accuracy_Pro 5.76% for K=1
+MSE meu 1.8e-07%  MSE: 1.500000053056283e-07
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4770,  e_loss:25.412155151367188,  d_loss:8.225309371948242,  g_loss:13.916054725646973,  c_loss:18.47361946105957
+accuracy 66.16% for K=1
+accuracy 0.6616% for K=1
+accuracy_Pro 5.04% for K=1
+MSE meu 1.8e-07%  MSE: 1.5999999902760464e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4780,  e_loss:28.611202239990234,  d_loss:9.261981010437012,  g_loss:15.226484298706055,  c_loss:22.184419631958008
+accuracy 70.16% for K=1
+accuracy 0.7016% for K=1
+accuracy_Pro 5.2% for K=1
+MSE meu 1.7e-07%  MSE: 1.500000053056283e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4790,  e_loss:27.67007827758789,  d_loss:9.694448471069336,  g_loss:16.17683982849121,  c_loss:22.18100357055664
+accuracy 67.12% for K=1
+accuracy 0.6712% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4800,  e_loss:25.76878547668457,  d_loss:8.31059455871582,  g_loss:12.92214298248291,  c_loss:22.180889129638672
+accuracy 70.96000000000001% for K=1
+accuracy 0.7096% for K=1
+accuracy_Pro 6.4799999999999995% for K=1
+MSE meu 1.1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4810,  e_loss:27.998624801635742,  d_loss:10.217885971069336,  g_loss:14.558805465698242,  c_loss:22.18116569519043
+accuracy 68.88% for K=1
+accuracy 0.6888% for K=1
+accuracy_Pro 6.72% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4820,  e_loss:30.413009643554688,  d_loss:11.212064743041992,  g_loss:15.338142395019531,  c_loss:22.180923461914062
+accuracy 67.36% for K=1
+accuracy 0.6736% for K=1
+accuracy_Pro 7.199999999999999% for K=1
+MSE meu 1.1e-07%  MSE: 1.0000000116860974e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4830,  e_loss:26.086536407470703,  d_loss:8.018011093139648,  g_loss:18.041240692138672,  c_loss:22.18093490600586
+accuracy 68.4% for K=1
+accuracy 0.684% for K=1
+accuracy_Pro 7.12% for K=1
+MSE meu 1e-07%  MSE: 9.000000034120603e-08
+Precision : 0.0224 Recall : 0.0224 f1 : 0.0224 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4840,  e_loss:24.52582550048828,  d_loss:7.589744567871094,  g_loss:15.411626815795898,  c_loss:22.180843353271484
+accuracy 69.52000000000001% for K=1
+accuracy 0.6952% for K=1
+accuracy_Pro 6.32% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4850,  e_loss:25.800214767456055,  d_loss:8.508527755737305,  g_loss:13.641217231750488,  c_loss:22.18100357055664
+accuracy 65.52% for K=1
+accuracy 0.6552% for K=1
+accuracy_Pro 7.28% for K=1
+MSE meu 7e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4860,  e_loss:27.024538040161133,  d_loss:8.964945793151855,  g_loss:12.844290733337402,  c_loss:22.180994033813477
+accuracy 71.84% for K=1
+accuracy 0.7184% for K=1
+accuracy_Pro 7.5200000000000005% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0256 Recall : 0.0256 f1 : 0.0256 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4870,  e_loss:26.399160385131836,  d_loss:7.945643424987793,  g_loss:15.556812286376953,  c_loss:22.180870056152344
+accuracy 72.56% for K=1
+accuracy 0.7256% for K=1
+accuracy_Pro 6.239999999999999% for K=1
+MSE meu 1.3e-07%  MSE: 1.1000000199601345e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4880,  e_loss:26.66499900817871,  d_loss:8.906514167785645,  g_loss:15.059959411621094,  c_loss:22.18087387084961
+accuracy 69.76% for K=1
+accuracy 0.6976% for K=1
+accuracy_Pro 6.16% for K=1
+MSE meu 1.4e-07%  MSE: 1.199999957179898e-07
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4890,  e_loss:24.896106719970703,  d_loss:7.888860702514648,  g_loss:15.43140697479248,  c_loss:20.310544967651367
+accuracy 73.2% for K=1
+accuracy 0.732% for K=1
+accuracy_Pro 5.4399999999999995% for K=1
+MSE meu 1.7e-07%  MSE: 1.3000000365082087e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4900,  e_loss:28.491531372070312,  d_loss:9.52730655670166,  g_loss:13.925003051757812,  c_loss:22.18097686767578
+accuracy 73.52% for K=1
+accuracy 0.7352% for K=1
+accuracy_Pro 5.76% for K=1
+MSE meu 1.6e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.0184 Recall : 0.0184 f1 : 0.0184 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4910,  e_loss:24.922239303588867,  d_loss:8.255603790283203,  g_loss:14.747713088989258,  c_loss:18.47361946105957
+accuracy 75.03999999999999% for K=1
+accuracy 0.7504% for K=1
+accuracy_Pro 5.2% for K=1
+MSE meu 1.8e-07%  MSE: 1.5999999902760464e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4920,  e_loss:24.858415603637695,  d_loss:7.207311630249023,  g_loss:13.591818809509277,  c_loss:22.181238174438477
+accuracy 74.64% for K=1
+accuracy 0.7464% for K=1
+accuracy_Pro 4.8% for K=1
+MSE meu 2e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.0216 Recall : 0.0216 f1 : 0.0216 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4930,  e_loss:25.864730834960938,  d_loss:8.639259338378906,  g_loss:12.39352798461914,  c_loss:22.180994033813477
+accuracy 74.08% for K=1
+accuracy 0.7408% for K=1
+accuracy_Pro 4.96% for K=1
+MSE meu 2.1e-07%  MSE: 1.8000000068241206e-07
+Precision : 0.02 Recall : 0.02 f1 : 0.02 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4940,  e_loss:25.64359474182129,  d_loss:7.915245532989502,  g_loss:15.856109619140625,  c_loss:18.473690032958984
+accuracy 76.64% for K=1
+accuracy 0.7664% for K=1
+accuracy_Pro 4.5600000000000005% for K=1
+MSE meu 2.2e-07%  MSE: 2.0000000233721948e-07
+Precision : 0.0232 Recall : 0.0232 f1 : 0.0232 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4950,  e_loss:26.711177825927734,  d_loss:8.559785842895508,  g_loss:12.063416481018066,  c_loss:20.311054229736328
+accuracy 70.96000000000001% for K=1
+accuracy 0.7096% for K=1
+accuracy_Pro 5.4399999999999995% for K=1
+MSE meu 1.9e-07%  MSE: 1.5999999902760464e-07
+Precision : 0.0248 Recall : 0.0248 f1 : 0.0248 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4960,  e_loss:26.266817092895508,  d_loss:8.507735252380371,  g_loss:13.736568450927734,  c_loss:18.47359275817871
+accuracy 71.44% for K=1
+accuracy 0.7144% for K=1
+accuracy_Pro 6.4% for K=1
+MSE meu 1.6e-07%  MSE: 1.3999999737279722e-07
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4970,  e_loss:25.399593353271484,  d_loss:7.979708194732666,  g_loss:12.626315116882324,  c_loss:18.47406768798828
+accuracy 70.16% for K=1
+accuracy 0.7016% for K=1
+accuracy_Pro 8.48% for K=1
+MSE meu 9e-08%  MSE: 9.000000034120603e-08
+Precision : 0.0176 Recall : 0.0176 f1 : 0.0176 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4980,  e_loss:24.148317337036133,  d_loss:7.1351776123046875,  g_loss:14.500240325927734,  c_loss:18.473623275756836
+accuracy 69.84% for K=1
+accuracy 0.6984% for K=1
+accuracy_Pro 7.76% for K=1
+MSE meu 8e-08%  MSE: 7.999999951380232e-08
+Precision : 0.0208 Recall : 0.0208 f1 : 0.0208 
+
+Resultados File: Load_AR_test_50_4.txt Current Epoch: 4990,  e_loss:28.70428466796875,  d_loss:9.203351020812988,  g_loss:14.086105346679688,  c_loss:22.180927276611328
+accuracy 67.60000000000001% for K=1
+accuracy 0.676% for K=1
+accuracy_Pro 8.08% for K=1
+MSE meu 6e-08%  MSE: 7.999999951380232e-08
+Precision : 0.024 Recall : 0.024 f1 : 0.024 
+
